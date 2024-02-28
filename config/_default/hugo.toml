@@ -1,0 +1,174 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+style = "default"
+title = 'Prova'
+theme = 'universal'
+
+[params]
+    # date_format = "6 January 2006" 
+
+    disabled_logo = false
+    logo_text = "Universal"
+
+    logo = "img/Bfa.png"
+    logo_small = "img/logo-small.png"
+
+    # About us
+     about_us = "<p>A law firm that provides legal advice to remarkable people besides focusing on a full monitorship of compliance duties of small size companies.</p>"
+    
+    # Contact
+     contact_url = "/contact"
+        address = """<p><strong>Londres, 12</strong>
+        <br>1er 1a
+        <br>Barcelona 08029
+        <br>Tels.
+        <br>(34) 93 4394555
+        <br>(34) 644 151 342
+      </p>
+      """
+    
+
+    # Contact form
+
+     email = "https://formspree.io/f/xpzvpzbk"
+     contact_form_ajax = false
+
+[params.topbar]
+    enable = true
+    text = "<p>Contact us on +(34) 93 4394555 or correo@bufete-boufeo.com.</p>"
+
+## MENU ##
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+
+[[menu.main]]
+    name       = "About"
+    identifier = "menu.about"
+    url        = "../../temp/about/"
+    weight     = 2
+
+
+[[menu.main]]
+    name       = "Partners"
+    identifier = "menu.partner"
+    url        = ""
+    weight     = 3
+
+[[menu.main]]
+    name       = "Jose Luis Bou"
+    url        = "../../partners/bou/"
+    weight     = 1
+    parent     = "menu.partner"
+    post       = 1
+
+
+[[menu.main]]
+    name       = "Jose Antonio Feo"
+    url        = "../../partners/feo/"
+    weight     = 2
+    parent     = "menu.partner"
+    post       = 2
+
+
+
+[[menu.main]]
+    name       = "Practice areas"
+    identifier = "menu.practice"
+    url        = ""
+    weight     = 4
+
+
+[[menu.main]]
+    name       = "Civil Law"
+    url        = "../../practicecivil/civil/"
+    weight     = 1
+    parent     = "menu.practice"
+
+[[menu.main]]
+    name       = "Corporate Law"
+    url        = "../../practicescorp/corp/"
+    weight     = 2
+    parent     = "menu.practice"
+
+[[menu.main]]
+    name       = "Tax Law"
+    url        = "../../practicetax/tax/"
+    weight     = 2
+    parent     = "menu.practice"
+
+[[menu.main]]
+    name       = "Employment Law"
+    url        = "../../practicework/work/"
+    weight     = 3
+    parent     = "menu.practice"
+    post       = 2
+
+[[menu.main]]
+    name       = "Companies"
+    url        = "../../practicecom/comp/"
+    weight     = 4
+    parent     = "menu.practice"
+
+[[menu.main]]
+    name       = "Accountancy"
+    url        = "../../practiceacc/account"
+    weight     = 3
+    parent     = "menu.practice"
+  
+[[menu.main]]
+    name       = "Business Law"
+    url        = "../../practicebus/bus"
+    weight     = 2
+    parent     = "menu.practice"
+
+
+
+
+
+[[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = 7
+
+# Top bar social links menu
+
+
+
+## Carousel
+[params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+## Features
+[params.features]
+    enable = true
+    cols = 3
+
+## See More
+[params.see_more]
+    enable = true
+    icon = "far fa-file-alt"
+    title = "Do you want to know more?"
+    subtitle = "Before surveying the practice areas, visit the about page and learn about our history and motivations."
+    link_url = "/temp/about/"
+    link_text = "Know the firm"
+
+## Clients
+[params.clients]
+    enable = true
+    title = "Information Resources"
+    subtitle = "We provide useful links to enhance the understanding of legal and business praticing."
+
+
+
+   
+

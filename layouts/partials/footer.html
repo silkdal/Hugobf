@@ -1,0 +1,102 @@
+<footer id="footer">
+    <div class="container">
+
+        {{ if isset .Site.Params "about_us" }}
+        <div class="col-md-2 col-sm-6">
+            <h4 class="text-center"><i>{{ i18n "aboutUs" }}</i></h4>
+
+            <div id="footl">{{ .Site.Params.about_us | safeHTML }}</div>
+            <div class="vl"> </div>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
+        <!--RECENT POSTS CODE-->
+        <div class="col-md-8 col-sm-6"> 
+
+           
+            <figure>
+                
+                <div class="imgwrap">
+                    <a href="/"><img class="imgfoot" src="{{ "../img/Bfa.jpg" | relURL }}"></a> <p class="img__description">Home</p>
+               </div>
+                
+               <div class="imgfoot">
+                <a href="../../partners/bou/"> <img class="imgfoot1" src="{{ "../img/ink-pen.jpg" | relURL }}"></a> <p class="img__description"> JoseLuis</p>
+                </div>   
+                
+                <div class="imgfoot">
+                    <a href="../../practicecivil/civil/"> <img class="imgfoot2" src="{{ "../img/civil.jpg" | relURL }}"></a> <p class="img__description">Civil</p>
+                </div>    
+                
+                <div class="imgfoot">
+                    <a href="../../practicecom/comp/"> <img class="imgfoot3" src="{{ "../img/company.jpg" | relURL }}"></a> <p class="img__description">Company</p>
+                </div> 
+                
+                <div class="imgfoot">
+                    <a href="../../practicebus/comp/"> <img class="imgfoot4" src="{{ "../img/business.jpg" | relURL }}"></a> <p class="img__description">Business</p>
+                </div>
+                
+                <div class="imgfoot">
+                    <a href="../../practicework/work/"> <img class="imgfoot5" src="{{ "../img/work.jpg" | relURL }}"></a> <p class="img__description">Work</p>
+                </div>
+
+                <div class="imgfoot">
+                    <a href="/contact/"> <img class="imgfoot6" src="{{ "../img/aboutm.jpg" | relURL }}"></a> <p class="img__description">Contact</p>
+                </div>
+
+                <div class="imgfoot">
+                    <a href="../../partners/feo/"> <img class="imgfoot7" src="{{ "../img/ink-pen.jpg" | relURL }}"></a> <p class="img__description">Jose Antonio </p>
+                </div> 
+                
+                <div class="imgfoot">
+                    <a href="../../practiceacc/account/"> <img class="imgfoot8" src="{{ "../img/account.jpeg" | relURL }}"></a> <p class="img__description">Accounts</p>
+                </div>
+                
+                <div class="imgfoot">
+                    <a href="../../practicescorp/corp/"> <img class="imgfoot9" src="{{ "../img/practicelaw.jpg" | relURL }}"></a> <p class="img__description">Corporate</p>
+                </div>
+
+                <div class="imgfoot">
+                    <a href="../../practicetax/tax/"> <img class="imgfoot10" src="{{ "../img/tax6.jpg" | relURL }}"></a> <p class="img__description">Taxes</p>
+                </div>
+
+                <div class="imgfoot">
+                    <a href="../../temp/aboutus"> <img class="imgfoot11" src="{{ "../img/aboutus.jpg" | relURL }}"></a> <p class="img__description">About</p>
+                </div>
+                
+            </figure>
+            
+
+        </div>
+        <!-- /.col-md-4 -->
+
+        {{ if isset .Site.Params "address" }}
+        <div class="col-md-2 col-sm-6">
+
+          <h4 class="text-center">{{ i18n "contactTitle" }}</h4>
+
+           <div id="footl"> {{ .Site.Params.address | safeHTML }} </div>
+           <div class="vla"> </div>
+            <div class="footf">
+	        <a href="{{ default "/contact" .Site.Params.contact_url }}" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
+
+            <hr class="hidden-md hidden-lg hidden-sm">
+                
+            </div>
+        </div>
+        <!-- /.col-md-4 -->
+        {{ end }}
+
+    </div>
+    <!-- /.container -->
+</footer>
+
+<!-- /#footer -->
+
+<!-- *** FOOTER END *** -->
+
+

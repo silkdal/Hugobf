@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  <head>
+    
+    {{ partial "custom_headers.html" . }}
+    <link href="https://fonts.cdnfonts.com/css/futura-std-4?styles=52567,52568,52574,52581,52575,52582,52570,52583,52576,52584,52579,52580,52565,52571,52566,52572,52573,52577,52569,52578" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/futura-pt" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../../static/css/custom.css" />         
+
+  
+    
+  </head>
+
+  <body>
+
+    <div id="all">
+
+        {{ partial "top.html" . }}
+
+        {{ partial "nav.html" . }}
+
+        {{ partial "headerabouttax.html" . }}
+
+        <div id="content" class="situat">
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-1"></div>
+
+                    <div class="col-md-10">
+
+                        
+
+                        <div id="sitcontent" >
+                          {{ .Content }}
+                        </div>
+                        <!-- /#post-content -->
+                        
+
+                    </div>
+                    
+                    <div class="col-md-1"></div>
+
+                    
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                       
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
