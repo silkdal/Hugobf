@@ -3602,3 +3602,19 @@ a.list-group-item.active > .badge,
   padding: 50px 0;
   background-color: #ededed;
 }
+
+.language-list {
+  position: absolute;
+  left: 1600px;
+  top: 20px;
+}
+
+
+.language-list li {
+  display: inline-block;
+  margin-right: 10px; /* add spacing between items */
+}
+
+a {
+  color: rgb(0, 0, 0);
+}

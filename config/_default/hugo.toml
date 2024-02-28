@@ -4,6 +4,23 @@ style = "default"
 title = 'Prova'
 theme = 'universal'
 
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    title = ""
+    languageName = "English"
+    weight = 1
+  [languages.es]
+    title = "d"
+    languageName = "Castellano"
+    weight = 2
+  [languages.ca]
+    title = "d"
+    languageName = "Català"
+    weight = 2
+
+defaultContentLanguageInSubdir = true
+
 [params]
     # date_format = "6 January 2006" 
 

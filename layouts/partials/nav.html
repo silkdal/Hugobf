@@ -155,6 +155,19 @@
             </div>
             <!--/.nav-collapse -->
         </div>
+        <div>
+
+          <ul id="langcol" class="language-list">
+  
+              {{ range $.Site.Home.AllTranslations }}
+  
+              <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+  
+              {{ end }}
+  
+          </ul>
+  
+      </div>
     </div>
 </header>
 
