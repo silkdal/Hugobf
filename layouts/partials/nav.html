@@ -1,5 +1,6 @@
 <header class="navbar-affixed-top" data-spy="affix" data-offset-top="62">
     <div class="navbar navbar-default yamm {{ if .Site.Params.dropdown_mouse_over }}mouseover{{ end }}" role="navigation" id="navbar">
+      <div class="container-fluid" id="bkg">
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand home" href="{{ "/" | relLangURL }}">
@@ -155,19 +156,8 @@
             </div>
             <!--/.nav-collapse -->
         </div>
-        <div>
-
-          <ul id="langcol" class="language-list">
-  
-              {{ range $.Site.Home.AllTranslations }}
-  
-              <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-  
-              {{ end }}
-  
-          </ul>
-  
       </div>
+      
     </div>
 </header>
 

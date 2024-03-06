@@ -1,11 +1,11 @@
 {{ if isset .Site.Params "features" }}
 {{ if .Site.Params.features.enable }}
-{{ if isset .Site.Data "features" }}
-{{ if gt (len .Site.Data.features) 0 }}
+{{ if isset .Site.Data.features "en" }}
+{{ if gt (len .Site.Data.features.en) 0 }}
 <section class="feat-land">
     <div class="container">
         {{ $elements := default 3 .Site.Params.features.cols }}
-        {{ $features := sort .Site.Data.features "weight" }}
+        {{ $features := sort .Site.Data.features.en "weight" }}
 
         {{ $total_rows := div (len $features) $elements }}
 

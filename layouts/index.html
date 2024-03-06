@@ -17,7 +17,33 @@
 
         {{ partial "carousel.html" . }}
 
+        <!--  FEATURES  -->
+
+        <!-- English feat. -->
+
+        {{ if eq $.Site.Language.LanguageName "English" }}
+
         {{ partial "features.html" . }}
+
+        {{ end }}
+
+        <!-- Cat. feat. -->
+
+        {{ if eq $.Site.Language.LanguageName "Català" }}
+
+        {{ partial "featurescat.html" . }}
+
+        {{ end }}
+
+        <!-- Cast. feat. -->
+
+        {{ if eq $.Site.Language.LanguageName "Castellano" }}
+
+        {{ partial "featurescast.html" . }}
+
+        {{ end }}
+
+        <!--  /FEATURES  -->
 
         {{ partial "testimonials.html" . }}
 
@@ -27,7 +53,31 @@
 
         {{ partial "clients.html" . }}
 
+        <!-- English foot. -->
+
+        {{ if eq $.Site.Language.LanguageName "English" }}
+
         {{ partial "footer.html" . }}
+
+        {{ end }}
+
+        <!-- Cat. foot. -->
+
+        {{ if eq $.Site.Language.LanguageName "Català" }}
+
+        {{ partial "footercat.html" . }}
+
+        {{ end }}
+
+        <!-- Cast. foot. -->
+
+        {{ if eq $.Site.Language.LanguageName "Castellano" }}
+
+        {{ partial "footercast.html" . }}
+
+        {{ end }}
+
+
 
     </div>
     <!-- /#all -->

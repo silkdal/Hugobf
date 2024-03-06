@@ -1,0 +1,33 @@
+{{ if .Site.Params.topbar.enable }}
+<header>
+  <div id="top">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-5">
+          {{ .Site.Params.topbar.text | safeHTML }}
+        </div>
+        <div class="col-xs-7">
+          <div class="social">
+            {{ range .Site.Menus.topbar.ByWeight }}
+            <a href="{{ .URL | safeURL }}" target="_blank" style="opacity: 1;">{{ .Pre }}</a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+
+      <ul class="language-list">
+
+          {{ range $.Site.Home.AllTranslations }}
+
+          <li><i><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></i></li>
+
+          {{ end }}
+
+      </ul>
+
+  </div>
+  </div>
+</header>
+{{ end }}

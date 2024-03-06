@@ -1,0 +1,8 @@
+weight: 4
+title: "<i>Contacte con nosostros</i>"
+description: >
+  <ul class="list-style-none">
+    <li>Confíenos sus necesidades legales o empresariales.</li>
+  </ul>
+image: "img/carousel/p3.jpeg"
+href: "/es/contact/"

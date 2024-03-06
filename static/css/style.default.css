@@ -352,7 +352,7 @@ ul.list-style-none {
 .navbar.navbar-light ul.nav > li.open > a:focus {
   border-top: solid 5px var(--primary-accent);
   background: #fff !important;
-  color: #555555 !important;
+  color: #e21818 !important;
 }
 .navbar ul.dropdown-menu {
   margin: 0;
@@ -1178,12 +1178,14 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel .owl-carousel {
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: -300px;
   background-color: #ededed;
   margin: auto;
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
+  position: relative;
+  top: -60px;
 }
 .home-carousel .owl-theme .owl-controls .owl-page.active span {
   background: #2c8494;
@@ -1243,6 +1245,8 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul li {
   margin-bottom: 10px;
 }
+
+/* Customers */
 .customers {
   padding: 0;
   margin-bottom: 40px;
@@ -2530,6 +2534,8 @@ fieldset[disabled] .btn-template-primary.active {
 #get-it p {
   margin: 0 0 20px;
 }
+
+/* FOOTER */
 #footer {
   background: #555555;
   padding: 50px 0;
@@ -3586,8 +3592,10 @@ a.list-group-item.active > .badge,
 }
 
 /* LANDING */
-.img-land {
+#img-land {
   position: relative; 
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .text-land {
   position: absolute;
@@ -3602,19 +3610,46 @@ a.list-group-item.active > .badge,
   padding: 50px 0;
   background-color: #ededed;
 }
+.car-land {
+  margin: auto;
+  position: relative;
+  margin-top: -50px;
+  padding: 30px 0;
+  background-color: rgb(123, 139, 167);
+}
+
+/* LANGUAGES */
 
 .language-list {
   position: absolute;
   left: 1600px;
-  top: 20px;
+  top: 8px;
+}
+
+.language-list ul {
+  margin: 0;
+  padding: 0;
 }
 
 
 .language-list li {
-  display: inline-block;
-  margin-right: 10px; /* add spacing between items */
+  list-style-type: none;
+  display: inline;
+}
+.language-list li:not(:first-child):before {
+  content: " | ";
+  color: #38a7bb;
 }
 
 a {
-  color: rgb(0, 0, 0);
+  color:  #c2c0c0;
 }
+a:hover {
+  color: rgba(56, 167, 187, 0.6);
+  font-weight: 900;
+}
+
+#bkg {
+  background-color: rgb(123, 139, 167);
+}
+

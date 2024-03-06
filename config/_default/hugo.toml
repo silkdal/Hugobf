@@ -7,27 +7,31 @@ theme = 'universal'
 DefaultContentLanguage = "en"
 [languages]
   [languages.en]
+    contentDir = "content/en"
     title = ""
     languageName = "English"
     weight = 1
   [languages.es]
+    contentDir = "content/es"
     title = "d"
     languageName = "Castellano"
     weight = 2
   [languages.ca]
+    contentDir = "content/ca"
     title = "d"
     languageName = "Català"
     weight = 2
 
 defaultContentLanguageInSubdir = true
 
-[params]
+# PARAMS EN
+[languages.en.params]
     # date_format = "6 January 2006" 
 
     disabled_logo = false
     logo_text = "Universal"
 
-    logo = "img/Bfa.png"
+    logo = "img/Bfabg.png"
     logo_small = "img/logo-small.png"
 
     # About us
@@ -50,34 +54,105 @@ defaultContentLanguageInSubdir = true
      email = "https://formspree.io/f/xpzvpzbk"
      contact_form_ajax = false
 
-[params.topbar]
+# PARAMS ES
+[languages.es.params]
+    # date_format = "6 January 2006" 
+
+    disabled_logo = false
+    logo_text = "Universal"
+
+    logo = "img/Bfabg.png"
+    logo_small = "img/logo-small.png"
+
+    # About us
+     about_us = "<p>Somos una firma legal que aconseja a personas y profesionales, además de ofrecer un asesoramiento integral a pequeñas y medianas empresas.</p>"
+    
+    # Contact
+     contact_url = "/contact"
+        address = """<p><strong>Londres, 12</strong>
+        <br>1er 1a
+        <br>Barcelona 08029
+        <br>Tels.
+        <br>(34) 93 4394555
+        <br>(34) 644 151 342
+      </p>
+      """
+    
+
+    # Contact form
+
+     email = "https://formspree.io/f/xpzvpzbk"
+     contact_form_ajax = false
+
+# PARAMS CA
+[languages.ca.params]
+    # date_format = "6 January 2006" 
+
+    disabled_logo = false
+    logo_text = "Universal"
+
+    logo = "img/Bfabg.png"
+    logo_small = "img/logo-small.png"
+
+    # About us
+     about_us = "<p>Som un despatx legal que aconsella a persones i professionals, a més d'oferir un assessorament integral a petites i mitjanes empreses.</p>"
+    
+    # Contact
+     contact_url = "/contact"
+        address = """<p><strong>Londres, 12</strong>
+        <br>1er 1a
+        <br>Barcelona 08029
+        <br>Tels.
+        <br>(34) 93 4394555
+        <br>(34) 644 151 342
+      </p>
+      """
+    
+
+    # Contact form
+
+     email = "https://formspree.io/f/xpzvpzbk"
+     contact_form_ajax = false
+
+# LANGUAGES TOP PARAMS
+
+[languages.en.params.topbar]
     enable = true
     text = "<p>Contact us on +(34) 93 4394555 or correo@bufete-boufeo.com.</p>"
 
-## MENU ##
+[languages.es.params.topbar]
+    enable = true
+    text = "<p>Contacte con nosotros al +(34) 93 4394555 o con correo@bufete-boufeo.com.</p>"
 
-# Main menu
-[[menu.main]]
+[languages.ca.params.topbar]
+    enable = true
+    text = "<p>Contacti amb nosaltres al +(34) 93 4394555 o amb correo@bufete-boufeo.com.</p>"
+
+
+## MENUs ##
+
+# Main menu EN
+[[languages.en.menu.main]]
     name       = "Home"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
 
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "About"
     identifier = "menu.about"
     url        = "../../temp/about/"
     weight     = 2
 
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Partners"
     identifier = "menu.partner"
     url        = ""
     weight     = 3
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Jose Luis Bou"
     url        = "../../partners/bou/"
     weight     = 1
@@ -85,7 +160,7 @@ defaultContentLanguageInSubdir = true
     post       = 1
 
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Jose Antonio Feo"
     url        = "../../partners/feo/"
     weight     = 2
@@ -93,97 +168,321 @@ defaultContentLanguageInSubdir = true
     post       = 2
 
 
-
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Practice areas"
     identifier = "menu.practice"
     url        = ""
     weight     = 4
 
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Civil Law"
     url        = "../../practicecivil/civil/"
     weight     = 1
     parent     = "menu.practice"
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Corporate Law"
     url        = "../../practicescorp/corp/"
     weight     = 2
     parent     = "menu.practice"
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Tax Law"
     url        = "../../practicetax/tax/"
     weight     = 2
     parent     = "menu.practice"
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Employment Law"
     url        = "../../practicework/work/"
     weight     = 3
     parent     = "menu.practice"
     post       = 2
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Companies"
     url        = "../../practicecom/comp/"
     weight     = 4
     parent     = "menu.practice"
 
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Accountancy"
     url        = "../../practiceacc/account"
     weight     = 3
     parent     = "menu.practice"
   
-[[menu.main]]
+[[languages.en.menu.main]]
     name       = "Business Law"
     url        = "../../practicebus/bus"
     weight     = 2
     parent     = "menu.practice"
 
 
-
-
-
-[[menu.main]]
+[[languages.en.menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
     weight     = 7
 
-# Top bar social links menu
+
+# Main menu ES
+[[languages.es.menu.main]]
+    name       = "Inicio"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+
+[[languages.es.menu.main]]
+    name       = "Nuestra firma"
+    identifier = "menu.about"
+    url        = "../../../es/temp/about/"
+    weight     = 2
+
+
+[[languages.es.menu.main]]
+    name       = "Socios"
+    identifier = "menu.partner"
+    url        = ""
+    weight     = 3
+
+[[languages.es.menu.main]]
+    name       = "Jose Luis Bou"
+    url        = "../../partners/bou/"
+    weight     = 1
+    parent     = "menu.partner"
+    post       = 1
+
+
+[[languages.es.menu.main]]
+    name       = "Jose Antonio Feo"
+    url        = "../../partners/feo/"
+    weight     = 2
+    parent     = "menu.partner"
+    post       = 2
+
+
+[[languages.es.menu.main]]
+    name       = "Áreas de Práctica"
+    identifier = "menu.practice"
+    url        = ""
+    weight     = 4
+
+
+[[languages.es.menu.main]]
+    name       = "Civil"
+    url        = "../../practicecivil/civil/"
+    weight     = 1
+    parent     = "menu.practice"
+
+[[languages.es.menu.main]]
+    name       = "Corporativa"
+    url        = "../../practicescorp/corp/"
+    weight     = 2
+    parent     = "menu.practice"
+
+[[languages.es.menu.main]]
+    name       = "Tributaria"
+    url        = "../../practicetax/tax/"
+    weight     = 2
+    parent     = "menu.practice"
+
+[[languages.es.menu.main]]
+    name       = "Laboral"
+    url        = "../../practicework/work/"
+    weight     = 3
+    parent     = "menu.practice"
+    post       = 2
+
+[[languages.es.menu.main]]
+    name       = "Empresas"
+    url        = "../../practicecom/comp/"
+    weight     = 4
+    parent     = "menu.practice"
+
+[[languages.es.menu.main]]
+    name       = "Ârea Contable"
+    url        = "../../practiceacc/account"
+    weight     = 3
+    parent     = "menu.practice"
+  
+[[languages.es.menu.main]]
+    name       = "Mercantil"
+    url        = "../../practicebus/bus"
+    weight     = 2
+    parent     = "menu.practice"
+
+
+[[languages.es.menu.main]]
+    identifier = "Contact"
+    name       = "Contacto"
+    url        = "/contact/"
+    weight     = 7
+
+
+# Main menu CA
+[[languages.ca.menu.main]]
+    name       = "Inici"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+
+[[languages.ca.menu.main]]
+    name       = "El nostre despatx"
+    identifier = "menu.about"
+    url        = "../../../ca/temp/about/"
+    weight     = 2
+
+
+[[languages.ca.menu.main]]
+    name       = "Socis"
+    identifier = "menu.partner"
+    url        = ""
+    weight     = 3
+
+[[languages.ca.menu.main]]
+    name       = "Jose Luis Bou"
+    url        = "../../partners/bou/"
+    weight     = 1
+    parent     = "menu.partner"
+    post       = 1
+
+
+[[languages.ca.menu.main]]
+    name       = "Jose Antonio Feo"
+    url        = "../../partners/feo/"
+    weight     = 2
+    parent     = "menu.partner"
+    post       = 2
+
+
+[[languages.ca.menu.main]]
+    name       = "Àrees de Pràctica"
+    identifier = "menu.practice"
+    url        = ""
+    weight     = 4
+
+
+[[languages.ca.menu.main]]
+    name       = "Civil"
+    url        = "../../practicecivil/civil/"
+    weight     = 1
+    parent     = "menu.practice"
+
+[[languages.ca.menu.main]]
+    name       = "Corporativa"
+    url        = "../../practicescorp/corp/"
+    weight     = 2
+    parent     = "menu.practice"
+
+[[languages.ca.menu.main]]
+    name       = "Tributària"
+    url        = "../../practicetax/tax/"
+    weight     = 2
+    parent     = "menu.practice"
+
+[[languages.ca.menu.main]]
+    name       = "Laboral"
+    url        = "../../practicework/work/"
+    weight     = 3
+    parent     = "menu.practice"
+    post       = 2
+
+[[languages.ca.menu.main]]
+    name       = "Empreses"
+    url        = "../../practicecom/comp/"
+    weight     = 4
+    parent     = "menu.practice"
+
+[[languages.ca.menu.main]]
+    name       = "Àrea Comptable"
+    url        = "../../practiceacc/account"
+    weight     = 3
+    parent     = "menu.practice"
+  
+[[languages.ca.menu.main]]
+    name       = "Mercantil"
+    url        = "../../practicebus/bus"
+    weight     = 2
+    parent     = "menu.practice"
+
+
+[[languages.ca.menu.main]]
+    identifier = "Contact"
+    name       = "Contacte"
+    url        = "/contact/"
+    weight     = 7
+
 
 
 
 ## Carousel
-[params.carouselHomepage]
+[languages.en.params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+[languages.es.params.carouselHomepage]
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+[languages.ca.params.carouselHomepage]
     enable = true
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
+
 ## Features
-[params.features]
+[languages.en.params.features]
+    enable = true
+    cols = 3
+[languages.es.params.features]
+    enable = true
+    cols = 3
+[languages.ca.params.features]
     enable = true
     cols = 3
 
 ## See More
-[params.see_more]
+[languages.en.params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to know more?"
+    languages.en.title = "Do you want to know more?"
     subtitle = "Before surveying the practice areas, visit the about page and learn about our history and motivations."
     link_url = "/temp/about/"
     link_text = "Know the firm"
+[languages.es.params.see_more]
+    enable = true
+    icon = "far fa-file-alt"
+    title = "¿Quiere conocernos mejor?"
+    subtitle = "Antes de explorar las áreas de práctica, visite la página sobre nuestra firma, y conozca nuestra historia y motivaciones."
+    link_url = "/temp/about/"
+    link_text = "Nuestra firma"
+[languages.ca.params.see_more]
+    enable = true
+    icon = "far fa-file-alt"
+    title = "Vol coneixe'ns millor?"
+    subtitle = "Abans d'explorar les àrees de pràctica, visiti la pàgina del nostre despatx, i coneixi la nostra història i motivacions."
+    link_url = "/temp/about/"
+    link_text = "El nostre despatx"
 
 ## Clients
-[params.clients]
+[languages.en.params.clients]
     enable = true
     title = "Information Resources"
     subtitle = "We provide useful links to enhance the understanding of legal and business praticing."
+[languages.es.params.clients]
+    enable = true
+    title = "Recursos interesantes"
+    subtitle = "Aquí puede encontrar enlaces interesantes para el entendimiento de la práctica del asesoramiento legal y empresarial."
+[languages.ca.params.clients]
+    enable = true
+    title = "Recursos interessants"
+    subtitle = "Aquí poden trobar enllaços interessants per a l'enteniment de la pràctica d'assessorament legal i empresarial."
 
 
 

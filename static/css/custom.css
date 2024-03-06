@@ -1750,7 +1750,6 @@ fieldset[disabled] .btn-template-primary.active {
 
 #heading-breadcrumbs {
   background-color: #ededed;
-  padding: 20px 0;
   margin-bottom: 0px;
 }
 #heading-breadcrumbs.no-mb {
@@ -2005,12 +2004,23 @@ fieldset[disabled] .btn-template-primary.active {
 .vla {
   position: absolute;
   right: 310px;
-  bottom: 60px;
+  bottom: 40px;
+  border-left: 2px solid #2c8494;
+  height: 100px;
+}
+.vla1 {
+  position: absolute;
+  right: 310px;
+  bottom: 17px;
   border-left: 2px solid #2c8494;
   height: 100px;
 }
 .footf {
-  text-align: center;
+  display: inline-block;
+  position: absolute;
+  top: 210px;
+  left: 100px;
+  transform: translate(-50%, -50%);
 }
 
 #footer {
@@ -3096,10 +3106,10 @@ a.list-group-item.active > .badge,
   bottom: 50px;
   
   background-color: #ededed;
-  font-family: 'Futura PT', sans-serif;
+  font-family: 'GeosansLight','Open Sans Condensed', 'Futura PT', 'Helvetica Neue', sans-serif;
   font-weight: 350;
   font-style: normal;
-  font-size: 19px;
+  font-size: 18px;
   line-height: 1.5em;
   letter-spacing: .02em;
   text-rendering: optimizeLegibility;
@@ -3511,9 +3521,12 @@ figure {
 }
 
 .img__description {
+  display: inline-block;
   position: absolute;
-  top: 110px;
-  left: 95px;
+  top: 100px;
+  left: 100px;
+  transform: translate(-50%, -50%);
+  
   color: #999999;
   visibility: hidden;
   opacity: 0;
@@ -3521,7 +3534,6 @@ figure {
   font-style: italic;
   line-height: 25px;
   font-family: Copperplot;
-  text-align: center;
   transition: opacity .2s, visibility .2s; /* transition effect. not necessary */
 }
 
@@ -3538,3 +3550,38 @@ figure img:nth-child(9) { --_d: 150deg; }
 figure img:nth-child(10) { --_d: 180deg; }
 figure img:nth-child(11) { --_d: 210deg; }
 figure img:nth-child(12) { --_d: 240deg; }
+
+/* LANGUAGES */
+
+.language-list {
+  position: absolute;
+  left: 1600px;
+  top: 8px;
+}
+
+.language-list ul {
+  margin: 0;
+  padding: 0;
+}
+
+
+.language-list li {
+  list-style-type: none;
+  display: inline;
+}
+.language-list li:not(:first-child):before {
+  content: " | ";
+  color: #38a7bb;
+}
+
+a {
+  color:  #c2c0c0;
+}
+a:hover {
+  color: rgba(56, 167, 187, 0.6);
+  font-weight: 900;
+}
+
+#bkg {
+  background-color: rgb(123, 139, 167);
+}

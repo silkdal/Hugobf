@@ -1,7 +1,7 @@
 {{ if isset .Site.Params "clients" }}
 {{ if .Site.Params.clients.enable }}
-{{ if isset .Site.Data "clients" }}
-{{ if gt (len .Site.Data.clients) 0 }}
+{{ if isset .Site.Data.clients "en" }}
+{{ if gt (len .Site.Data.clients.en) 0 }}
 <section class="bar background-gray no-mb">
     <div class="container">
         <div class="row">
@@ -19,11 +19,11 @@
                     data-autoplay="{{ default false .Site.Params.CarouselCustomers.auto_play }}"
                     data-slide-speed="{{ default 2000 .Site.Params.CarouselCustomers.slide_speed }}"
                     data-pagination-speed="{{ default 1000 .Site.Params.CarouselCustomers.pagination_speed }}">
-                    {{ range .Site.Data.clients }}
+                    {{ range .Site.Data.clients.en }}
                     <li class="item" title="{{ .name }}">
                         {{ if .url }}
                           <a href="{{ .url }}" target="_blank">
-                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            <img src="../{{ .image }}" alt="{{ .name }}" class="img-responsive" />
                           </a>
                         {{ else }}
                           <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
