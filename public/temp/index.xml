@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>bfirm.netlify.app/temp/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="bfirm.netlify.app/temp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABOUT US</title>
+      <link>bfirm.netlify.app/temp/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>bfirm.netlify.app/temp/about/</guid>
+      <description>Our History B&amp;amp;F Advocats comes as a result of a joint alliance of two partners, Jose Luis Bou and Jose Antonio Feo, that transitioned from the private sector, each bringing a wealth of diverse expertise to the table.
+The firm took root in September 2000 as a visionary venture rooted in legal excellence and unwavering client advocacy seeking to navigate the intricate legal landscape with finesse and deliver innovative solutions tailored to the unique needs of their clientele.</description>
+    </item>
+  </channel>
+</rss>
