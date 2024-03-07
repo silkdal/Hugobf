@@ -452,21 +452,21 @@ defaultContentLanguageInSubdir = true
     enable = true
     icon = "far fa-file-alt"
     languages.en.title = "Do you want to know more?"
-    subtitle = "Before surveying the practice areas, visit the about page and learn about our history and motivations."
+    subtitle = "Before surveying the practice areas, visit the about page and learn about our history and motivations"
     link_url = "/temp/about/"
     link_text = "Know the firm"
 [languages.es.params.see_more]
     enable = true
     icon = "far fa-file-alt"
     title = "¿Quiere conocernos mejor?"
-    subtitle = "Antes de explorar las áreas de práctica, visite la página sobre nuestra firma, y conozca nuestra historia y motivaciones."
+    subtitle = "Antes de explorar las áreas de práctica, visite la página sobre nuestra firma, y conozca nuestra historia y motivaciones"
     link_url = "/temp/about/"
     link_text = "Nuestra firma"
 [languages.ca.params.see_more]
     enable = true
     icon = "far fa-file-alt"
     title = "Vol coneixe'ns millor?"
-    subtitle = "Abans d'explorar les àrees de pràctica, visiti la pàgina del nostre despatx, i coneixi la nostra història i motivacions."
+    subtitle = "Abans d'explorar les àrees de pràctica, visiti la pàgina del nostre despatx, i coneixi la nostra història i motivacions"
     link_url = "/temp/about/"
     link_text = "El nostre despatx"
 
@@ -474,15 +474,15 @@ defaultContentLanguageInSubdir = true
 [languages.en.params.clients]
     enable = true
     title = "Information Resources"
-    subtitle = "We provide useful links to enhance the understanding of legal and business praticing."
+    subtitle = "We provide useful links to enhance the understanding of legal and business praticing"
 [languages.es.params.clients]
     enable = true
     title = "Recursos interesantes"
-    subtitle = "Aquí puede encontrar enlaces interesantes para el entendimiento de la práctica del asesoramiento legal y empresarial."
+    subtitle = "Aquí puede encontrar enlaces interesantes para el entendimiento de la práctica del asesoramiento legal y empresarial"
 [languages.ca.params.clients]
     enable = true
     title = "Recursos interessants"
-    subtitle = "Aquí poden trobar enllaços interessants per a l'enteniment de la pràctica d'assessorament legal i empresarial."
+    subtitle = "Aquí poden trobar enllaços interessants per a l'enteniment de la pràctica d'assessorament legal i empresarial"
 
 
 
