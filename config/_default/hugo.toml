@@ -447,28 +447,7 @@ defaultContentLanguageInSubdir = true
     enable = true
     cols = 3
 
-## See More
-[languages.en.params.see_more]
-    enable = true
-    icon = "far fa-file-alt"
-    languages.en.title = "Do you want to know more?"
-    subtitle = "Before surveying the practice areas, visit the about page and learn about our history and motivations"
-    link_url = "/temp/about/"
-    link_text = "Know the firm"
-[languages.es.params.see_more]
-    enable = true
-    icon = "far fa-file-alt"
-    title = "¿Quiere conocernos mejor?"
-    subtitle = "Antes de explorar las áreas de práctica, visite la página sobre nuestra firma, y conozca nuestra historia y motivaciones"
-    link_url = "/temp/about/"
-    link_text = "Nuestra firma"
-[languages.ca.params.see_more]
-    enable = true
-    icon = "far fa-file-alt"
-    title = "Vol coneixe'ns millor?"
-    subtitle = "Abans d'explorar les àrees de pràctica, visiti la pàgina del nostre despatx, i coneixi la nostra història i motivacions"
-    link_url = "/temp/about/"
-    link_text = "El nostre despatx"
+
 
 ## Clients
 [languages.en.params.clients]
