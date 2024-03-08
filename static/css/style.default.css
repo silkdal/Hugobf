@@ -2866,6 +2866,7 @@ a.list-group-item.active > .badge,
   place-items: center;
   overflow: hidden;
   position: relative;
+  width: 100vw; /*100% view width*/
   
 }
 
