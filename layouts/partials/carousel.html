@@ -6,7 +6,7 @@
     <div class="home-carousel">
         <div class="dark-mask"></div>
         
-            <div class="homepage owl-carousel"
+            <div class="homepage owl-carousel" 
                 data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
                 data-slide-speed="{{ default 2000 .Site.Params.CarouselHomepage.slide_speed }}"
                 data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}">
@@ -15,10 +15,10 @@
                     {{ if .href }}
                     <a href="{{ .href }}" title="{{ .title | safeHTML }}">
                     {{ end }}
-                        <div class="row no-gutters">
+                        <div class="row no-gutters" id="gridcard">
                             
                             <div class="col-sm-12" id="img-land">
-                                <img  src="../{{ .image }}" alt="" width=100% height="650">
+                                <img  src="../{{ .image }}" alt="" width=100% height="800">
                             </div>
                             <div class="text-land">
                                 <h1>{{ .title | safeHTML }}</h1>

@@ -68,7 +68,7 @@ defaultContentLanguageInSubdir = true
      about_us = "<p>Somos una firma legal que aconseja a personas y profesionales, además de ofrecer un asesoramiento integral a pequeñas y medianas empresas.</p>"
     
     # Contact
-     contact_url = "/contact"
+     contact_url = "../../es/contact"
         address = """<p><strong>Londres, 12</strong>
         <br>1er 1a
         <br>Barcelona 08029
@@ -98,7 +98,7 @@ defaultContentLanguageInSubdir = true
      about_us = "<p>Som un despatx legal que aconsella a persones i professionals, a més d'oferir un assessorament integral a petites i mitjanes empreses.</p>"
     
     # Contact
-     contact_url = "/contact"
+     contact_url = "../../ca/contact"
         address = """<p><strong>Londres, 12</strong>
         <br>1er 1a
         <br>Barcelona 08029
@@ -317,7 +317,7 @@ defaultContentLanguageInSubdir = true
 [[languages.es.menu.main]]
     identifier = "Contact"
     name       = "Contacto"
-    url        = "/contact/"
+    url        = "../../es/contact/"
     weight     = 7
 
 
@@ -412,7 +412,7 @@ defaultContentLanguageInSubdir = true
 [[languages.ca.menu.main]]
     identifier = "Contact"
     name       = "Contacte"
-    url        = "/contact/"
+    url        = "../../ca/contact/"
     weight     = 7
 
 

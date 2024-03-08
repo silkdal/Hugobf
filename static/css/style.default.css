@@ -2845,17 +2845,8 @@ a.list-group-item.active > .badge,
 }
 
 /* LANDING */
-#img-land {
-  position: relative; 
-  margin-top: 0;
-  margin-bottom: 0;
-}
-.text-land {
-  position: absolute;
-  top: 70px;
-  left: 1175px;
-  bottom: 100px;
-}
+
+
 .feat-land {
   margin: auto;
   position: relative;
@@ -2870,6 +2861,31 @@ a.list-group-item.active > .badge,
   padding: 30px 0;
   background-color: rgb(123, 139, 167);
 }
+#gridcard {
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  position: relative;
+  
+}
+
+#gridcard .img-land{
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  position: relative;
+  z-index: -1;
+}
+.text-land {
+  position: relative;
+  margin-top: -1090px;
+  margin-left: 1165px;
+  z-index: 1;
+  padding: 0.5rem;
+  
+}
+
 
 /* LANGUAGES */
 

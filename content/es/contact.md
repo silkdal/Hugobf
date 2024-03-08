@@ -1,14 +1,14 @@
 +++
-title = "Contact"
+title = "Contacto"
 id = "contact"
 +++
 
-# Contact us below to book an appointment
+# Concierte una cita
 
-Use the form below to tell us about your legal inquiry, and we’ll call you back to schedule an appointment. You may also email or call us to make an appointment. Our general response time is one business day.
+Utilice el formulario a final de página para exponer la materia sobre su consulta legal, y le llamaremos para concertar una cita. También puede enviarnos un correo electrónico o llamarnos por teléfono directamente. Nuestro tiempo de respuesta de los mensajes electrónicos, aproximadamente, es de un día hábil.
 
-We cannot and do not guarantee or warrant the security or confidentiality of any communication made via e-mail. If you wish to provide information of a confidential or sensitive nature to us, please contact us directly by telephone.
+No podemos garantizar la seguridad o confidencialidad de ninguna comunicación realizada por correo electrónico. Si desea proporcionar información confidencial o sensible, por favor contáctenos directamente por teléfono.
 
-We do not store any personal information obtained through our website. All personal information will be collected by personal contact once you give confidence to this firm.
+No almacenamos ninguna información personal obtenida a través de nuestro sitio web. Toda la información personal será recopilada mediante contacto personal una vez que confíe en esta firma.
 
-Please do not include confidential or sensitive information in your message. In the event that we are representing a party with opposing interests to your own, we may have a duty to disclose any information you provide to our client.
+Por favor, no incluya información confidencial o sensible en su mensaje. En el caso de que estemos representando a una parte con intereses opuestos a los suyos, podríamos tener el deber de revelar cualquier información que nos proporcionase, a nuestro cliente.

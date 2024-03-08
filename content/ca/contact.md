@@ -1,14 +1,14 @@
 +++
-title = "Contact"
+title = "Contacte"
 id = "contact"
 +++
 
-# Contact us below to book an appointment
+# Concerti una cita
 
-Use the form below to tell us about your legal inquiry, and we’ll call you back to schedule an appointment. You may also email or call us to make an appointment. Our general response time is one business day.
+Utilitzi el formulari a final de pàgina per informar-nos sobre la matèria de la seva consulta legal, i el trucarem per concertar una cita. També pot enviar-nos un correu electrònic o trucar-nos per telèfon directament. El nostre temps de resposta dels missatges electrònicas és, aproximadament, d'un dia laborable.
 
-We cannot and do not guarantee or warrant the security or confidentiality of any communication made via e-mail. If you wish to provide information of a confidential or sensitive nature to us, please contact us directly by telephone.
+No podem garantir la seguretat o confidencialitat de cap comunicació feta per correu electrònic. Si desitja proporcionar informació de naturalesa confidencial o sensible, si us plau, posi's en contacte directament amb nosaltres per telèfon.
 
-We do not store any personal information obtained through our website. All personal information will be collected by personal contact once you give confidence to this firm.
+No emmagatzemem cap informació personal obtinguda a través del nostre lloc web. Tota la informació personal serà recollida mitjançant contacte personal un cop hagi confiat en aquesta firma.
 
-Please do not include confidential or sensitive information in your message. In the event that we are representing a party with opposing interests to your own, we may have a duty to disclose any information you provide to our client.
+Si us plau, no inclogui informació confidencial o sensible en el seu missatge. En el cas que estiguem representant una part amb interessos oposats als seus, podríem tenir el deure de revelar qualsevol informació que ens proporcioni al nostre client.

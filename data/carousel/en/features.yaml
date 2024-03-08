@@ -1,8 +1,6 @@
 weight: 2
 title: "<i>Expertise and experience</i>"
-description: >
-  <ul class="list-style-none">
-     <li>We provide our clients comprehensive solutions for a variety of business and legal conflict situations.</li>
-   </ul>
+description: "<p> We provide our clients comprehensive solutions for a variety of business and legal conflict situations.</p>"
+   
 image: "img/carousel/p2a.jpeg"
 href: ""
