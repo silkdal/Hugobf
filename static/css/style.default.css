@@ -2882,7 +2882,7 @@ a.list-group-item.active > .badge,
 .text-land {
   position: relative;
   margin-top: -1090px;
-  margin-left: 1165px;
+  margin-left: 1100px;
   z-index: 1;
   padding: 0.5rem;
   
@@ -2921,4 +2921,5 @@ a:hover {
 #bkg {
   background-color: rgb(123, 139, 167);
 }
+
 
