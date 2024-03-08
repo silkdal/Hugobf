@@ -3,8 +3,9 @@
 {{ if gt (len .Site.Data.carousel) 0 }}
 {{ $information := index .Site.Data.carousel .Site.Language.Lang }}
 <section class="car-land">
-    <div class="home-carousel">
-        <div class="dark-mask"></div>
+    <div class="container-fullwidth">
+        <div class="home-carousel">
+            <div class="dark-mask"></div>
         
             <div class="homepage owl-carousel" 
                 data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
@@ -32,7 +33,7 @@
                 {{ end }}
             </div>
             <!-- /.project owl-slider -->
-        
+        </div>    
     </div>
 </section>
 {{ end }}
