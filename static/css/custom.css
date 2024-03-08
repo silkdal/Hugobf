@@ -252,7 +252,9 @@ ul.list-style-none {
 }
 #top p {
   margin: 0;
-  font-size: 12px;
+  font-size: 13px;
+  display: inline-block;
+  color: #c2c0c0;
 }
 #top .social {
   float: right;
@@ -3554,9 +3556,8 @@ figure img:nth-child(12) { --_d: 240deg; }
 /* LANGUAGES */
 
 .language-list {
-  position: absolute;
-  left: 1600px;
-  top: 8px;
+  display: inline-block;
+  top: 10px;
 }
 
 .language-list ul {

@@ -249,7 +249,9 @@ ul.list-style-none {
 }
 #top p {
   margin: 0;
-  font-size: 12px;
+  font-size: 13px;
+  display: inline-block;
+  color: #c2c0c0;
 }
 #top .social {
   float: right;
@@ -2866,7 +2868,6 @@ a.list-group-item.active > .badge,
   place-items: center;
   overflow: hidden;
   position: relative;
-  width: 100vw; /*100% view width*/
   
 }
 
@@ -2891,9 +2892,7 @@ a.list-group-item.active > .badge,
 /* LANGUAGES */
 
 .language-list {
-  position: absolute;
-  left: 1600px;
-  top: 8px;
+  display: inline-block;
 }
 
 .language-list ul {
