@@ -3557,7 +3557,7 @@ figure img:nth-child(12) { --_d: 240deg; }
 
 .language-list {
   display: inline-block;
-  top: 10px;
+  float: right;
 }
 
 .language-list ul {

@@ -2879,28 +2879,53 @@ a.list-group-item.active > .badge,
   position: relative;
   z-index: -1;
 }
-.text-land {
-  position: relative;
-  margin-top: -1100px;
-  margin-left: 800px;
-  z-index: 1;
-  padding: 0.5rem;
-  
+
+@media only screen and (max-width: 600px) {
+
+  .text-land {
+    position: relative;
+    margin-top: -1100px;
+    margin-left: 350px;
+    z-index: 1;
+    padding: 0.5rem;
+    }
 }
+
+@media only screen and (max-width: 1200px) {
+
+  .text-land {
+    position: relative;
+    margin-top: -1120px;
+    margin-left: 800px;
+    z-index: 1;
+    padding: 0.5rem;
+    }
+}
+
+@media only screen and (max-width: 1920px) {
+
+  .text-land {
+    position: relative;
+    margin-top: -1120px;
+    margin-left: 1080px;
+    z-index: 1;
+    padding: 0.5rem;
+    }
+}
+
 
 
 /* LANGUAGES */
 
 .language-list {
   display: inline-block;
-  top: 140px;
-  margin-right: 200px;
+  float: right;
   
 }
 
 .language-list ul {
-  margin: 0;
-  padding: 0;
+  margin: 50px;
+  padding: 200px;
 }
 
 

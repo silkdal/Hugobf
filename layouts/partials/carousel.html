@@ -10,7 +10,8 @@
             <div class="homepage owl-carousel" 
                 data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
                 data-slide-speed="{{ default 2000 .Site.Params.CarouselHomepage.slide_speed }}"
-                data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}">
+                data-pagination-speed="{{ default 1000 .Site.Params.CarouselHomepage.pagination_speed }}"
+                data-autoplayHoverPause: false>
                 {{ range $index, $element := sort $information "weight" }}
                 <div class="item">
                     {{ if .href }}
