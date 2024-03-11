@@ -2880,7 +2880,7 @@ a.list-group-item.active > .badge,
   z-index: -1;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) {
 
   .text-land {
     position: relative;
@@ -2891,7 +2891,18 @@ a.list-group-item.active > .badge,
     }
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (min-width: 992px) {
+
+  .text-land {
+    position: relative;
+    margin-top: -1100px;
+    margin-left: 600px;
+    z-index: 1;
+    padding: 0.5rem;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
 
   .text-land {
     position: relative;
@@ -2902,7 +2913,7 @@ a.list-group-item.active > .badge,
     }
 }
 
-@media only screen and (max-width: 1920px) {
+@media only screen and (min-width: 1920px) {
 
   .text-land {
     position: relative;
