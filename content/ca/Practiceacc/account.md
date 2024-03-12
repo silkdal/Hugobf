@@ -1,15 +1,15 @@
 +++
-title = 'Accountancy'
+title = 'Comptabilitat'
 draft = false
 +++
 
 
 
 
-Accountancy is one of the backbones of businesses and companies daily activity. Our firm takes full control and responsibility in this area and guarantees a strict fulfilling of the demanding compliance requisites.
+La comptabilitat es un dels pilars de l'activitat diària d'empreses i negocis. El nostres despatx es fa càrrec del control total i de la responsabilitat en aquesta àrea, garantitzant l'estricte compliment dels estàndards i bones pràctiques exigides en aquest camp.
 
-Besides, we are aware of the burden for businesses to supply information on a daily basis, and we offer flexibility on that aspect, also taking into consideration the financial needs of the business or company.
+A més, som conscients de la dificultat que implica per a les empreses subministrar informació a diari, i oferim flexibilitat en aquest aspecte, tenint en compte també, les necessitats financeres de l'empresa o negoci.
 
-## Our experience in Accountancy
+## La nostra experiència en Comptabilitat
 
-Our firm specializes on businesses and small size companies. We provide a full guidance of accountancy organization and we have the adequate skills and tools to serve our clients on the management principles of proximity and confidence.  
+El nostre despatx s'especialitza en petites i mitjanes empreses. Oferim una completa orientació, seguiment i realització de l'organització comptable, i comptem amb les habilitats i eines adequades per servir als nostres clients en base als principis de proximitat i confiança. 

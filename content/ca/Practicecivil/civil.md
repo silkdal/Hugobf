@@ -1,21 +1,18 @@
 +++
-title = 'Civil Law'
+title = 'Àrea Civil'
 draft = false
 +++
 
+Les situacions de conflicte que poden sorgir habitualment en l'activitat individual són gairebé interminables. Ja esdevingui la situació en un testament, una compra, o algun dany sofert, és essencial comptar amb un assessorament fiable per prevenir o decidir l'actuació més adequada. La nostra firma estarà atenta als detalls del seu cas i oferirà una orientació completa fins a la resolució del conflicte.
 
+En alguns casos, tot i que pugui durar mesos o anys, el litigi és inevitable. El nostre equip estarà sempre disponible per respondre qualsevol pregunta que pugui tenir sobre l'estat del seu cas, i enfatitzem que només tenim èxit si vostè el té.
 
+## La nostra experiència en Dret Civil
 
-The situations of conflict that can occur on just normal individual activity are almost endless. Whether the dispute arise in a will, purchase or some injury suffered, a trusted advisement is essential for prevention or deciding the next step. Our firm will be attentive on the details of your case and will offer a full guidance throughout the conflict navigation.
+Aquí hi ha algunes àrees en les quals podem ajudar. Però la llista no és exhaustiva i gairebé amb tota seguretat podrem ocupar-nos dels detalls específics del seu cas.
 
-In some cases, though it may take months or years, litigation is unavoidable. Anyway our team will be always ready and available to answer any questions you might have about your case and where it’s going, and we only succeed if you do.
-
-## Our experience in Civil Law
-
-Here are some areas in which we can help. But the list is not exhaustive and almost surely we can deal on the specifics of your case.
-
-* Breach of Contract
-* Personal Injury
-* Property disputes
-* Estates and Wills
-* Landlord and Tenant Disputes
+* Incompliments de Contractes
+* Danys o Lesions
+* Disputes de Propietat
+* Herències i Testaments
+* Conflictes entre Propietaris i Llogaters

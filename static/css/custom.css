@@ -3141,16 +3141,16 @@ a.list-group-item.active > .badge,
   box-sizing: border-box;
   border-radius: 5px;
   /* padding: 100px 100px 100px; */
-  font-family: 'Futura PT', sans-serif;
+  font-family: 'GeosansLight','Open Sans Condensed', 'Futura PT', 'Helvetica Neue', sans-serif;
   font-size: 18px;
-  font-weight: 300;
+  font-weight: 400;
   display: flex;
   justify-content: center;
   margin-top: 75px;
   margin-bottom: -50px;
 }
 .headname {
-  font-family: 'Futura PT', sans-serif;
+  font-family: 'GeosansLight','Open Sans Condensed', 'Futura PT', 'Helvetica Neue', sans-serif;
   font-size: 19px;
 }
 #cont {
@@ -3162,7 +3162,7 @@ a.list-group-item.active > .badge,
 .last {
   font-size: 14px;
   position: relative;
-  left: 419px;
+  margin-left: 419px;
   bottom: 32px;
 }
 #name {
@@ -3586,3 +3586,11 @@ a:hover {
 #bkg {
   background-color: rgb(123, 139, 167);
 }
+
+/* DEBUG */
+
+/* 
+* {
+  outline: 1px solid red;
+} 
+*/

@@ -1,22 +1,22 @@
 +++
-title = 'Business Law'
+title = 'Àrea Mercantil'
 draft = false
 +++
 
 
 
-The day-to-day of business activity it is not a clear path. From advisement to litigation our firm provides a steady and experienced counsel to help achieve the businesses and companies goals.
+L'activitat empresarial diària no és una pràctica senzilla. Des de l'assessorament fins a la litigació, la nostra firma ofereix un servei fiable i experimentat per ajudar a assolir els objectius d'empreses i negocis.
 
-Every business is different and we have experience dealing with local and international businesses and their unique needs.
+Cada empresa és diferent, i tenim experiència, tant a nivell local com internacional, per satisfer les seves necessitats úniques.
 
-## Our experience in Business Law
+## La nostra experiència en Dret Empresarial
 
-Our experience covers a wide variety of matters in Business Law, including:
+La nostra experiència abasta una àmplia varietat de matèries en Dret Mercantil, incloent:
 
-* Loan transactions
-* Bankruptcy Law
-* Contracts
+* Finançament i Préstecs
+* Concursal
+* Contractes
 * Patents
-* Trademarks
-* Commercial Litigation
+* Marques Comercials
+* Litigis Comercials
   

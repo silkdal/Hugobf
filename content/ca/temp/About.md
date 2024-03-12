@@ -10,7 +10,7 @@ B&F Advocats neix com a resultat d'una aliança conjunta de dos socis, Jose Luis
 
 El bufet es va fundar el setembre de l'any 2000 com una empresa arrelada en l'excel·lència legal i la ferma defensa dels valors de confiança i proximitat, amb l'objectiu de navegar pel complex panorama legal amb habilitat, i oferir sol.lucions innovadores adaptades a les necessitats úniques dels seus clients.
 
-A més de cobrir una àmplia gamma d'àrees legals tant per a individus com per a empreses, un dels primers objectius del bufet va ser centrar-se en les petites empreses, assegurant-se que rebin suport i orientació personalitzats, essencials per al seu creixement.
+A més de cobrir una àmplia gamma d'àrees legals tant per a persones com per a empreses, un dels primers objectius del bufet va ser centrar-se en les petites empreses, assegurant-se que rebin suport i orientació personalitzats, essencials per al seu creixement.
 
 L'aproximació única del bufet amb assessorament integrat i orientació en les principals obligacions de compliment per a les empreses, incloent-hi comptabilitat, impostos i contractes de treball, va demostrar ésser aviat exitosa, ja que permet mantenir un compromís constant amb el servei a les necessitats legals úniques de les empreses.
 

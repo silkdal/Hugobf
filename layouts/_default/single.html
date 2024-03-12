@@ -51,9 +51,31 @@
 
                     <div class="col-md-3">
 
-                        <!-- *** MENUS AND WIDGETS *** -->
+                        <!-- *** MENUS AND WIDGETS *** ADDRESS-->
 
-                        {{ partial "Address.html" . }}
+                        <!-- English Add. -->
+
+                          {{ if eq $.Site.Language.LanguageName "English" }}
+
+                          {{ partial "Address.html" . }}
+
+                          {{ end }}
+
+                          <!-- Cat. Add. -->
+
+                          {{ if eq $.Site.Language.LanguageName "Català" }}
+
+                          {{ partial "Addresscat.html" . }}
+
+                          {{ end }}
+
+                          <!-- Cast. Add. -->
+
+                          {{ if eq $.Site.Language.LanguageName "Castellano" }}
+
+                          {{ partial "Addresscast.html" . }}
+
+                          {{ end }}
 
                         
 
@@ -72,7 +94,31 @@
               </div>
             <!-- /.container -->
 
-            {{ partial "form.html" . }}
+            <!-- FORM -->
+
+                           <!-- English form. -->
+
+                          {{ if eq $.Site.Language.LanguageName "English" }}
+
+                          {{ partial "form.html" . }}
+
+                          {{ end }}
+
+                          <!-- Cat. form. -->
+
+                          {{ if eq $.Site.Language.LanguageName "Català" }}
+
+                          {{ partial "formcat.html" . }}
+
+                          {{ end }}
+
+                          <!-- Cast. form. -->
+
+                          {{ if eq $.Site.Language.LanguageName "Castellano" }}
+
+                          {{ partial "formcast.html" . }}
+
+                          {{ end }}
 
         </div>
         <!-- /#content -->

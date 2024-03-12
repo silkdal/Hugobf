@@ -257,7 +257,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.es.menu.main]]
     name       = "Jose Antonio Feo"
-    url        = "../../partners/feo/"
+    url        = "../../../es/partners/feo/"
     weight     = 2
     parent     = "menu.partner"
     post       = 2
@@ -272,7 +272,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.es.menu.main]]
     name       = "Civil"
-    url        = "../../practicecivil/civil/"
+    url        = "../../../es/practicecivil/civil/"
     weight     = 1
     parent     = "menu.practice"
 
@@ -303,13 +303,13 @@ defaultContentLanguageInSubdir = true
 
 [[languages.es.menu.main]]
     name       = "Ârea Contable"
-    url        = "../../practiceacc/account"
+    url        = "../../../es/practiceacc/account"
     weight     = 3
     parent     = "menu.practice"
   
 [[languages.es.menu.main]]
     name       = "Mercantil"
-    url        = "../../practicebus/bus"
+    url        = "../../../es/practicebus/bus"
     weight     = 2
     parent     = "menu.practice"
 
@@ -317,7 +317,7 @@ defaultContentLanguageInSubdir = true
 [[languages.es.menu.main]]
     identifier = "Contact"
     name       = "Contacto"
-    url        = "../../es/contact/"
+    url        = "../../../es/contact/"
     weight     = 7
 
 
@@ -352,7 +352,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.ca.menu.main]]
     name       = "Jose Antonio Feo"
-    url        = "../../partners/feo/"
+    url        = "../../../ca/partners/feo/"
     weight     = 2
     parent     = "menu.partner"
     post       = 2
@@ -367,7 +367,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.ca.menu.main]]
     name       = "Civil"
-    url        = "../../practicecivil/civil/"
+    url        = "../../../ca/practicecivil/civil/"
     weight     = 1
     parent     = "menu.practice"
 
@@ -398,13 +398,13 @@ defaultContentLanguageInSubdir = true
 
 [[languages.ca.menu.main]]
     name       = "Àrea Comptable"
-    url        = "../../practiceacc/account"
+    url        = "../../../ca/practiceacc/account"
     weight     = 3
     parent     = "menu.practice"
   
 [[languages.ca.menu.main]]
     name       = "Mercantil"
-    url        = "../../practicebus/bus"
+    url        = "../../../ca/practicebus/bus"
     weight     = 2
     parent     = "menu.practice"
 
@@ -412,7 +412,7 @@ defaultContentLanguageInSubdir = true
 [[languages.ca.menu.main]]
     identifier = "Contact"
     name       = "Contacte"
-    url        = "../../ca/contact/"
+    url        = "../../../ca/contact/"
     weight     = 7
 
 

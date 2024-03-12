@@ -1,15 +1,15 @@
 +++
-title = 'Accountancy'
+title = 'Contabilidad'
 draft = false
 +++
 
 
 
 
-Accountancy is one of the backbones of businesses and companies daily activity. Our firm takes full control and responsibility in this area and guarantees a strict fulfilling of the demanding compliance requisites.
+La contabilidad es uno de los pilares de la actividad diaria de empresas y negocios. Nuestra firma asume el control total y la responsabilidad en esta área, garantizando el estricto cumplimiento de los estándares y buenas prácticas exigidas en este campo.
 
-Besides, we are aware of the burden for businesses to supply information on a daily basis, and we offer flexibility on that aspect, also taking into consideration the financial needs of the business or company.
+Además, somos conscientes de la dificultad que implica para las empresas suministrar información a diario, y ofrecemos flexibilidad en este aspecto, teniendo en cuenta también las necesidades financieras de la empresa o negocio.
 
-## Our experience in Accountancy
+## Nuestra experiencia en Contabilidad
 
-Our firm specializes on businesses and small size companies. We provide a full guidance of accountancy organization and we have the adequate skills and tools to serve our clients on the management principles of proximity and confidence.  
+Nuestra firma se especializa en pequeñas y medianas empresas. Ofrecemos una completa orientación, seguimiento, y realización de la organización contable, y contamos con las habilidades y herramientas adecuadas para servir a nuestros clientes en base a los principios de cercanía y confianza.
