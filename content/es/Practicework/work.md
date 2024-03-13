@@ -1,20 +1,17 @@
 +++
-title = 'Employment Law'
+title = 'Área Laboral'
 draft = false
 +++
 
+En B&F Advocats asesoramos a clientes en todos los asuntos relacionados con el Derecho Laboral, abarcando ambas perspectivas de la relación laboral, ya sea como empleador o como trabajador. Al igual que con todas nuestras áreas de práctica, nos aseguraremos de que sus intereses se manejen de manera discreta y confidencial.
 
+# Nuestra experiencia en Derecho Laboral
 
+Nuestros servicios en derecho laboral cubren una amplia gama de situaciones, y nuestra experiencia y habilidad ayudarán a resolverlas con éxito.
 
-At B&F Advocats we advise clients on any and all matters of Employment Law, including both perspectives of the employment relationship, as a employer or as a worker. As with all of our practice areas, we will ensure your matters are handled discretely and confidentially.
-
-## Our experience in Employment Law
-
-Our employment law services cover a wide range of matters. Each of these unique areas of employment law is filled with very detailed and complex intricacies, and our experience and skill will help to succesfully navigate them.
-
-* Terminations
-* Wrongful dismissals
-* Employment in insolvency
-* Labour negotiations
-* Contract negotiations
-* and many more…
+* Finalización de Contrato
+* Despidos Improcedentes
+* Situación Concursal
+* Negociaciones laborales
+* Negociaciones contractuales
+* Y muchas más…

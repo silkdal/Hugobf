@@ -1,12 +1,12 @@
 +++
-title = 'Companies'
+title = 'Empresa'
 draft = false
 +++
 
 
 
-Our firm offers a fully integrated monitorship for the major compliances duties for the businesses or companies, including taxes, working contracts and accountancy. This unitary approach allows an exhaustive dedication, besides a deeper knowledge on the inner workings of our clients, enhancing thus, the quality of our service.
+El nostre despatx ofereix un servei conjunt per a les principals obligacions de compliment per a empreses, incloent Tributació, Àrea Laboral i Comptabilitat. Aquest enfocament unitari permet una dedicació exhaustiva, a més d'un coneixement més profund sobre el funcionament intern dels nostres clients, millorant així la qualitat del nostre servei.
 
-## Our experience in Companies
+## La nostra experiència en Empreses
 
-Our experience with several businesses and companies shows us that with this approach our values and management principles of proximity and confidence are totally fulfilled.  
+La nostra experiència amb diverses empreses i negocis ens demostra que amb aquest enfocament, els nostres valors i principis de proximitat i confiança es poden implementar amb major eficàcia.  

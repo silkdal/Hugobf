@@ -1,34 +1,30 @@
 +++
-title = 'Tax Law'
+title = 'Área Tributaria'
 draft = false
 +++
 
+El Derecho Tributario es un área extensa que concierne tanto a personas físicas como a empresas. Ofrecemos asesoramiento guiado sobre obligaciones fiscales y llevamos a cabo la presentación ante la Administración.
 
+Nuestra firma está completamente preparada para hacer frente a todas las obligaciones tributarias, a los requisitos de informes en tiempo real, y a las crecientes expectativas de transparencia fiscal.
 
+# Nuestra experiencia en Derecho Tributario
 
-Tax Law is a vast area that concerns both individuals and companies. We offer individuals a guided advisement on tax duties and we perform the obligations before the Administration.
+El asesoramiento fiscal es una cuestión de confianza. Nuestro equipo cuenta con una experiencia probada en la amplia gama de obligaciones fiscales derivadas de la actividad empresarial o la vida cotidiana de las personas, incluyendo:
 
-Our firm is fully prepared to deal with complex tax obligations, real-time reporting requirements, and increasing expectations of tax transparency.
-
-## Our experience in Tax Law
-
-Tax advisement is a matter of confidence. Our team has a proven experience with the comprehensive array of tax obligations arising from business activity or day-to-day individuals life, including:
-
-### Tax for Individuals
+## Impuestos para Individuos
 
 * IRPF
-* Non-Resident Tax
-* Inheritance Tax and Donations
-* Wealth Tax
-* Derived from Purchases Agreements
-* Tax Litigation
+* Impuesto de No Residentes
+* Impuesto sobre Sucesiones y Donaciones
+* Impuesto sobre el Patrimonio
+* Derivados de Acuerdos de Compra
+* Contenciosos Fiscales
+  
+## Impuestos para Empresas
 
-
-### Tax for Corporations
-
-* IS
-* VAT
-* Real-time Reporting Information
-* Annual or quarterly tax briefings filings
-* Municipal Taxes
-* Tax Litigation
+* Impuesto de Sociedades
+* IVA
+* Información de Informes en Tiempo Real
+* Presentación de informes fiscales anuales o trimestrales
+* Impuestos Municipales
+* Litigios Fiscales

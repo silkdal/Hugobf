@@ -1210,14 +1210,16 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
-  color: #00050e;
+ color: #25001c;
+
 }
 .home-carousel h1 {
-  font-weight: 1000;
+  font-weight: 500;
   text-transform: uppercase;
   font-size: 80px;
   letter-spacing: 0.08em;
   color: #b9830f;
+  font-family: 'GeosansLight','Open Sans Condensed', 'Futura PT', 'Helvetica Neue', sans-serif;
 }
 @media (max-width: 991px) {
   .home-carousel h1 {
@@ -1233,11 +1235,13 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul,
 .home-carousel p {
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 550;
   padding: 0;
   text-transform: uppercase;
-  letter-spacing: 0.10em;
+  letter-spacing: 0.03em;
+  font-family: 'GeosansLight','Open Sans Condensed', 'Futura PT', 'Helvetica Neue', sans-serif;
 }
+
 @media (max-width: 991px) {
   .home-carousel ul,
   .home-carousel p {

@@ -1,12 +1,10 @@
 +++
-title = 'Companies'
+title = 'Empresa'
 draft = false
 +++
 
+Nuestra firma ofrece un servicio conjunto para las principales obligaciones de cumplimiento para empresas, incluyendo Tributación, Área Laboral y Contabilidad. Este enfoque unitario permite una dedicación exhaustiva, además de un conocimiento más profundo sobre el funcionamiento interno de nuestros clientes, mejorando así la calidad de nuestro servicio.
 
+## Nuestra experiencia en Empresas
 
-Our firm offers a fully integrated monitorship for the major compliances duties for the businesses or companies, including taxes, working contracts and accountancy. This unitary approach allows an exhaustive dedication, besides a deeper knowledge on the inner workings of our clients, enhancing thus, the quality of our service.
-
-## Our experience in Companies
-
-Our experience with several businesses and companies shows us that with this approach our values and management principles of proximity and confidence are totally fulfilled.  
+Nuestra experiencia con varias empresas y negocios nos demuestra que con este enfoque, nuestros valores y principios de proximidad y confianza, pueden ser implementados con mayor eficacia.  

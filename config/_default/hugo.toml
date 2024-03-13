@@ -249,7 +249,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.es.menu.main]]
     name       = "Jose Luis Bou"
-    url        = "../../partners/bou/"
+    url        = "../../../es/partners/bou/"
     weight     = 1
     parent     = "menu.partner"
     post       = 1
@@ -278,26 +278,26 @@ defaultContentLanguageInSubdir = true
 
 [[languages.es.menu.main]]
     name       = "Corporativa"
-    url        = "../../practicescorp/corp/"
+    url        = "../../../es/practicescorp/corp/"
     weight     = 2
     parent     = "menu.practice"
 
 [[languages.es.menu.main]]
     name       = "Tributaria"
-    url        = "../../practicetax/tax/"
+    url        = "../../../es/practicetax/tax/"
     weight     = 2
     parent     = "menu.practice"
 
 [[languages.es.menu.main]]
     name       = "Laboral"
-    url        = "../../practicework/work/"
+    url        = "../../../es/practicework/work/"
     weight     = 3
     parent     = "menu.practice"
     post       = 2
 
 [[languages.es.menu.main]]
     name       = "Empresas"
-    url        = "../../practicecom/comp/"
+    url        = "../../../es/practicecom/comp/"
     weight     = 4
     parent     = "menu.practice"
 
@@ -325,7 +325,7 @@ defaultContentLanguageInSubdir = true
 [[languages.ca.menu.main]]
     name       = "Inici"
     identifier = "menu.home"
-    url        = "/"
+    url        = "../../../ca/"
     weight     = 1
 
 
@@ -344,7 +344,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.ca.menu.main]]
     name       = "Jose Luis Bou"
-    url        = "../../partners/bou/"
+    url        = "../../../ca/partners/bou/"
     weight     = 1
     parent     = "menu.partner"
     post       = 1
@@ -373,26 +373,26 @@ defaultContentLanguageInSubdir = true
 
 [[languages.ca.menu.main]]
     name       = "Corporativa"
-    url        = "../../practicescorp/corp/"
+    url        = "../../../ca/practicescorp/corp/"
     weight     = 2
     parent     = "menu.practice"
 
 [[languages.ca.menu.main]]
     name       = "Tributària"
-    url        = "../../practicetax/tax/"
+    url        = "../../../ca/practicetax/tax/"
     weight     = 2
     parent     = "menu.practice"
 
 [[languages.ca.menu.main]]
     name       = "Laboral"
-    url        = "../../practicework/work/"
+    url        = "../../../ca/practicework/work/"
     weight     = 3
     parent     = "menu.practice"
     post       = 2
 
 [[languages.ca.menu.main]]
     name       = "Empreses"
-    url        = "../../practicecom/comp/"
+    url        = "../../../ca/practicecom/comp/"
     weight     = 4
     parent     = "menu.practice"
 

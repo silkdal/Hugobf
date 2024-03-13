@@ -1,23 +1,21 @@
 +++
-title = 'Corporate Law'
+title = 'Área Corporativa'
 draft = false
 +++
 
+Els beneficis que el sistema legal otorga a les societats són un element decisiu per al creixement de les empreses. A <i>B&F Advocats</i>, estem preparats per protegir els seus interessos en l'àmbit del Dret Corporatiu, oferint orientació detallada i assessorament sobre els diversos aspectes legals de les seves activitats econòmiques diàries i a llarg termini.
 
+També ajudem als professionals a decidir si establir-se com a societat és una bona elecció a llarg termini.
 
+## La nostra experiència en Dret Corporatiu
 
-The benefits that the legal system invests in corporations are a key element for the growth of businesses. At <i>B&F Advocats</i> we are prepared to protect your business interests in the area of Corporate Law, offering detailed guidance and advice on the various legal aspects of your day-to-day and long-term business activities.
+El nostre equip té experiència en una àmplia gamma de matèries en l'àmbit societari, incloent:
 
-We also help individuals decide whether establishing themselves as a corporation is a good choice on the long term.
-
-## Our experience in Corporate Law
-
-As a trusted resource for corporate assistance, our team has experience with a wide range of business activities, including:
-
-* Incorporations
-* Preparations for the General Meeting of Shareholders
-* Assistance in Boards of Directors
-* Mergers
-* Reorganizations
-* Shareholder agreements and disputes
-* And many more...
+* Constitucions de Societats
+* Preparatius per a la Junta General d'Accionistes
+* Assistència en Consells d'Administració
+* Fusions
+* Reorganitzacions
+* Acords i Disputes entre Accionistes
+* I moltes més..
+  

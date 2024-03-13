@@ -3,32 +3,28 @@ title = 'Tax Law'
 draft = false
 +++
 
+El Dret Tributari és una àrea extensa que afecta tant a persones físiques com a empreses. Oferim assessorament guiat sobre obligacions fiscals i realitzem la presentació davant l'Administració.
 
+La nostra firma està totalment preparada per fer front a totes les obligacions tributàries, als requisits d'informes en temps real, i a les creixents expectatives de transparència fiscal.
 
+# La nostra experiència en Dret Tributari
 
-Tax Law is a vast area that concerns both individuals and companies. We offer individuals a guided advisement on tax duties and we perform the obligations before the Administration.
+L'assessorament fiscal és una qüestió de confiança. El nostre equip compta amb una experiència provada en la àmplia gamma d'obligacions fiscals derivades de l'activitat empresarial o la vida quotidiana de les persones, incloent:
 
-Our firm is fully prepared to deal with complex tax obligations, real-time reporting requirements, and increasing expectations of tax transparency.
-
-## Our experience in Tax Law
-
-Tax advisement is a matter of confidence. Our team has a proven experience with the comprehensive array of tax obligations arising from business activity or day-to-day individuals life, including:
-
-### Tax for Individuals
+## Impostos per a Persones Físiques
 
 * IRPF
-* Non-Resident Tax
-* Inheritance Tax and Donations
-* Wealth Tax
-* Derived from Purchases Agreements
-* Tax Litigation
+* Impost de No Residents
+* Impost sobre Successions i Donacions
+* Impost sobre el Patrimoni
+* Derivats d'Acords de Compra
+* Contenciosos Fiscals
 
+## Impostos per a Empreses
 
-### Tax for Corporations
-
-* IS
-* VAT
-* Real-time Reporting Information
-* Annual or quarterly tax briefings filings
-* Municipal Taxes
-* Tax Litigation
+* Impost de Societats
+* IVA
+* Informació d'Informes en Temps Real
+* Presentació d'informes fiscals anuals o trimestrals
+* Impostos Municipals
+* Litigis Fiscals
