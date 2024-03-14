@@ -12,10 +12,10 @@ També ajudem als professionals a decidir si establir-se com a societat és una 
 El nostre equip té experiència en una àmplia gamma de matèries en l'àmbit societari, incloent:
 
 * Constitucions de Societats
-* Preparatius per a la Junta General d'Accionistes
+* Assistència en  la Junta General d'Accionistes
 * Assistència en Consells d'Administració
 * Fusions
 * Reorganitzacions
-* Acords i Disputes entre Accionistes
+* Acords i Controvèrsies entre Accionistes
 * I moltes més..
   

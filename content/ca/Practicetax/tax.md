@@ -17,14 +17,15 @@ L'assessorament fiscal és una qüestió de confiança. El nostre equip compta a
 * Impost de No Residents
 * Impost sobre Successions i Donacions
 * Impost sobre el Patrimoni
-* Derivats d'Acords de Compra
+* Impostos Municipals
+* Impost sobre Transmisions Patrimonials i Actes Jurídics Documentats
 * Contenciosos Fiscals
 
 ## Impostos per a Empreses
 
 * Impost de Societats
 * IVA
-* Informació d'Informes en Temps Real
-* Presentació d'informes fiscals anuals o trimestrals
+* Declaracions Informatives
 * Impostos Municipals
+* Impostos sobre el Medi Ambient
 * Litigis Fiscals

@@ -11,20 +11,21 @@ Nuestra firma está completamente preparada para hacer frente a todas las obliga
 
 El asesoramiento fiscal es una cuestión de confianza. Nuestro equipo cuenta con una experiencia probada en la amplia gama de obligaciones fiscales derivadas de la actividad empresarial o la vida cotidiana de las personas, incluyendo:
 
-## Impuestos para Individuos
+## Impuestos sobre Personas Físicas
 
 * IRPF
 * Impuesto de No Residentes
 * Impuesto sobre Sucesiones y Donaciones
 * Impuesto sobre el Patrimonio
-* Derivados de Acuerdos de Compra
+* Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados
+* Impuestos Municipales
 * Contenciosos Fiscales
   
-## Impuestos para Empresas
+## Impuestos sobre Empresas
 
 * Impuesto de Sociedades
 * IVA
-* Información de Informes en Tiempo Real
-* Presentación de informes fiscales anuales o trimestrales
+* Declaraciones informativas
 * Impuestos Municipales
+* Impuestos sore el Medio Ambiente
 * Litigios Fiscales

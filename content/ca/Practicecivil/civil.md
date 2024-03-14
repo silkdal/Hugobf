@@ -13,6 +13,6 @@ Aquí hi ha algunes àrees en les quals podem ajudar. Però la llista no és exh
 
 * Incompliments de Contractes
 * Danys o Lesions
-* Disputes de Propietat
+* Controvèrsies de Propietat
 * Herències i Testaments
-* Conflictes entre Propietaris i Llogaters
+* Conflictes entre Arrendadors i Arrendataris

@@ -11,10 +11,9 @@ Cada empresa es diferente, y tenemos experiencia, en el ámbito local e internac
 
 Nuestra experiencia abarca una amplia variedad de materias en Derecho Mercantil, incluyendo:
 
-* Financiación y Préstamos
+* Financiación
 * Concursal
 * Contratos
-* Patentes
-* Marcas Comerciales
-* Litigios Comerciales
+* Patentes y Marcas Comerciales
+* Litigios 
   

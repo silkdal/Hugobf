@@ -12,9 +12,9 @@ También ayudamos a profesionales a decidir si establecerse como una sociedad es
 Nuestro equipo tiene experiencia en una amplia gama de materias en el ámbito societario, incluyendo:
 
 * Constituciones de Sociedades
-* Preparativos para la Junta General de Accionistas
+* Asistencia en la Junta General de Accionistas
 * Asistencia en Consejos de Administración
 * Fusiones
 * Reorganizaciones
-* Acuerdos y Disputas entre Accionistas
+* Acuerdos y Controversias entre Accionistas
 * Y muchas más..

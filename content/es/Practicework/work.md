@@ -9,9 +9,7 @@ En B&F Advocats asesoramos a clientes en todos los asuntos relacionados con el D
 
 Nuestros servicios en derecho laboral cubren una amplia gama de situaciones, y nuestra experiencia y habilidad ayudarán a resolverlas con éxito.
 
-* Finalización de Contrato
-* Despidos Improcedentes
-* Situación Concursal
-* Negociaciones laborales
-* Negociaciones contractuales
-* Y muchas más…
+* Contratación
+* Relaciones Laborales
+* Regulación de Empleo
+* Negociación Colectiva

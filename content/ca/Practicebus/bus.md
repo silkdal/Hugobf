@@ -13,10 +13,9 @@ Cada empresa és diferent, i tenim experiència, tant a nivell local com interna
 
 La nostra experiència abasta una àmplia varietat de matèries en Dret Mercantil, incloent:
 
-* Finançament i Préstecs
+* Finançament 
 * Concursal
 * Contractes
-* Patents
-* Marques Comercials
-* Litigis Comercials
+* Patents i Marques Comercials
+* Litigis 
   

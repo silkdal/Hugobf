@@ -13,6 +13,6 @@ Aquí hay algunas áreas en las que podemos ayudar. Pero la lista no es exhausti
 
 * Incumplimientos de Contratos
 * Daños o Lesiones
-* Disputas de Propiedad
+* Controversias de Propiedad
 * Herencias y Testamentos
-* Conflictos entre Propietarios e Inquilinos
+* Conflictos entre Arrendadores i Arrendatarios

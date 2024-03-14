@@ -8,17 +8,17 @@ DefaultContentLanguage = "en"
 [languages]
   [languages.en]
     contentDir = "content/en"
-    title = ""
+    title = "BF Advocats"
     languageName = "English"
     weight = 1
   [languages.es]
     contentDir = "content/es"
-    title = "d"
+    title = "BF Advocats"
     languageName = "Castellano"
     weight = 2
   [languages.ca]
     contentDir = "content/ca"
-    title = "d"
+    title = "BF Advocats"
     languageName = "Català"
     weight = 2
 
@@ -118,15 +118,15 @@ defaultContentLanguageInSubdir = true
 
 [languages.en.params.topbar]
     enable = true
-    text = "<p>Contact us on +(34) 93 4394555 or correo@bufete-boufeo.com.</p>"
+    text = "<p>Contact us on +(34) 93 4394555 or correo@bufete-boufeo.com</p>"
 
 [languages.es.params.topbar]
     enable = true
-    text = "<p>Contacte con nosotros al +(34) 93 4394555 o con correo@bufete-boufeo.com.</p>"
+    text = "<p>Contacte con nosotros al +(34) 93 4394555 o con correo@bufete-boufeo.com</p>"
 
 [languages.ca.params.topbar]
     enable = true
-    text = "<p>Contacti amb nosaltres al +(34) 93 4394555 o amb correo@bufete-boufeo.com.</p>"
+    text = "<p>Contacti amb nosaltres al +(34) 93 4394555 o amb correo@bufete-boufeo.com</p>"
 
 
 ## MENUs ##

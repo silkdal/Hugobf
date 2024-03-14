@@ -2852,7 +2852,10 @@ a.list-group-item.active > .badge,
 
 /* LANDING */
 
-
+.img-land {
+  max-width: 100%;
+  max-height: 100%;
+}
 .feat-land {
   margin: auto;
   position: relative;

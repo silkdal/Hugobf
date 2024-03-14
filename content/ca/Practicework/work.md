@@ -9,9 +9,7 @@ En B&F Advocats assessorem clients en tots els assumptes relacionats amb el Dret
 
 Els nostres serveis en dret laboral cobreixen una àmplia gamma de situacions, i la nostra experiència i habilitat ajudaran a resoldre-les amb èxit.
 
-* Finalització de Contracte
-* Acomiadaments Improcedents
-* Situació Concursal
-* Negociacions laborals
-* Negociacions contractuals
-* I moltes més..
+* Contractació
+* Relacions Laborals
+* Regulació d'Ocupació
+* Negociació Col.lectiva
