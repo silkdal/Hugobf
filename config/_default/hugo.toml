@@ -230,7 +230,7 @@ defaultContentLanguageInSubdir = true
 [[languages.es.menu.main]]
     name       = "Inicio"
     identifier = "menu.home"
-    url        = "/"
+    url        = "../../../es/"
     weight     = 1
 
 
