@@ -2886,11 +2886,11 @@ a.list-group-item.active > .badge,
     padding: 0.5rem;
     }
   .home-carousel h1 {
-      font-size: 35px;
+      font-size: 15px;
     }
   .home-carousel ul,
   .home-carousel p {
-      font-size: 10px;
+      font-size: 6px;
   }
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -140px;
