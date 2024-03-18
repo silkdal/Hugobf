@@ -3570,7 +3570,12 @@ a:hover {
 }
 
 #bkg {
-  background-color: rgb(123, 139, 167);
+  background-color: rgb(88, 133, 192);
+  background-image:
+    linear-gradient(
+      to right, 
+      rgb(6, 136, 153), rgb(123, 139, 167)
+    );
 }
 
 /* DEBUG */

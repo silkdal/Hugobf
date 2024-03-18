@@ -1,5 +1,5 @@
 weight: 4
 name: "Accountancy"
 icon: "fas fa-file-excel"
-url: "/"
+url: "../../../practiceacc/account/"
 description: "We provide expertise in fulfilling all accountancy duties for businesses and companies."

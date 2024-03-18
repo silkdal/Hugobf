@@ -1201,7 +1201,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
- color: #25001c;
+ color: #410116ce;
 
 }
 .home-carousel h1 {
@@ -1211,12 +1211,9 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
   color: #b9830f;
   font-family: 'GeosansLight','Open Sans Condensed', 'Futura PT', 'Helvetica Neue', sans-serif;
+  text-shadow: 0px 2px 4px #79020213;
 }
-@media (max-width: 991px) {
-  .home-carousel h1 {
-    font-size: 36px;
-  }
-}
+
 .home-carousel h2 {
   font-weight: 900;
   text-transform: uppercase;
@@ -1225,20 +1222,16 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel ul,
 .home-carousel p {
-  font-size: 18px;
-  font-weight: 550;
+  font-size: 24px;
+  font-weight: 350;
   padding: 0;
   text-transform: uppercase;
   letter-spacing: 0.03em;
   font-family: 'GeosansLight','Open Sans Condensed', 'Futura PT', 'Helvetica Neue', sans-serif;
+  color: rgb(241, 252, 220);
+	text-shadow: 0px 2px 4px #9c02423b;
 }
 
-@media (max-width: 991px) {
-  .home-carousel ul,
-  .home-carousel p {
-    font-size: 14px;
-  }
-}
 .home-carousel ul li {
   margin-bottom: 10px;
 }
@@ -2846,7 +2839,10 @@ a.list-group-item.active > .badge,
 #img-land {
   width: 100%;
   height: 87vh;
-  transform: translateX(+0.7%)
+  transform: translateX(+0.9%);
+  /*opacity: 0.8;*/
+  filter: brightness(75%);
+ 
 
 }
 .feat-land {
@@ -2889,6 +2885,16 @@ a.list-group-item.active > .badge,
     z-index: 1;
     padding: 0.5rem;
     }
+  .home-carousel h1 {
+      font-size: 35px;
+    }
+  .home-carousel ul,
+  .home-carousel p {
+      font-size: 10px;
+  }
+  .home-carousel .owl-theme .owl-controls .owl-page span {
+    top: -140px;
+  }
 }
 
 @media only screen and (min-width: 992px) {
@@ -2900,17 +2906,37 @@ a.list-group-item.active > .badge,
     z-index: 1;
     padding: 0.5rem;
     }
+  .home-carousel h1 {
+      font-size: 50px;
+    }
+  .home-carousel ul,
+  .home-carousel p {
+      font-size: 16px;
+  }
+  .home-carousel .owl-theme .owl-controls .owl-page span {
+    top: -100px;
+  }
 }
 
 @media only screen and (min-width: 1200px) {
 
   .text-land {
     position: relative;
-    margin-top: -1250px;
+    margin-top: -950px;
     margin-left: 760px;
     z-index: 1;
     padding: 0.5rem;
     }
+  .home-carousel h1 {
+      font-size: 58px;
+    }
+  .home-carousel ul,
+  .home-carousel p {
+      font-size: 18px;
+  }
+  .home-carousel .owl-theme .owl-controls .owl-page span {
+    top: -85px;
+  }
 }
 
 @media only screen and (min-width: 1920px) {
@@ -2922,6 +2948,16 @@ a.list-group-item.active > .badge,
     z-index: 1;
     padding: 0.5rem;
     }
+  .home-carousel h1 {
+      font-size: 80px;
+    }
+  .home-carousel ul,
+  .home-carousel p {
+      font-size: 24px;
+  }
+  .home-carousel .owl-theme .owl-controls .owl-page span {
+    top: -60px;
+  }
 }
 
 
@@ -2958,7 +2994,12 @@ a:hover {
 }
 
 #bkg {
-  background-color: rgb(123, 139, 167);
+  background-color: rgb(88, 133, 192);
+  background-image:
+    linear-gradient(
+      to right, 
+      rgb(6, 136, 153), rgb(123, 139, 167)
+    );
 }
 
 
