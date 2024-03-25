@@ -1,5 +1,5 @@
 weight: 4
 name: "Comptabilitat"
 icon: "fas fa-file-excel"
-url: "/"
+url: "../../../ca/practiceacc/account/"
 description: "Garantitzem expertesa en el compliment de totes les obligaciones comptables per a empreses i negocis."

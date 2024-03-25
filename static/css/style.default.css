@@ -2895,26 +2895,32 @@ a.list-group-item.active > .badge,
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -140px;
   }
+  #bkg {
+    height: 10vh;
+  }
 }
 
 @media only screen and (min-width: 992px) {
 
   .text-land {
     position: relative;
-    margin-top: -1100px;
+    margin-top: -800px;
     margin-left: 520px;
     z-index: 1;
     padding: 0.5rem;
     }
   .home-carousel h1 {
-      font-size: 50px;
+      font-size: 45px;
     }
   .home-carousel ul,
   .home-carousel p {
-      font-size: 16px;
+      font-size: 14px;
   }
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -100px;
+  }
+  #bkg {
+    height: 10vh;
   }
 }
 
@@ -2937,6 +2943,9 @@ a.list-group-item.active > .badge,
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -85px;
   }
+  #bkg {
+    height: 10vh;
+  }
 }
 
 @media only screen and (min-width: 1920px) {
@@ -2957,6 +2966,9 @@ a.list-group-item.active > .badge,
   }
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -60px;
+  }
+  #bkg {
+    height: 8vh;
   }
 }
 
