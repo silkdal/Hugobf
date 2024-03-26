@@ -3199,6 +3199,41 @@ a.list-group-item.active > .badge,
   color: #166285;
   font-weight: 400;
 }
+.tacbox {
+  position: relative;
+  top: 80px;
+  display:block;
+  padding: 1em;
+  background-color: #eee;
+  max-width: 800px;
+}
+input[type=checkbox] {
+  display: none;
+}
+.pos5:before {
+  content: "";
+  display: inline-block;
+  height: 1.7em;
+  width: 1.7em;
+  vertical-align: middle;
+  cursor: pointer;
+  left: 0;
+  bottom: 1px;
+  background-color: #e2e2e2ce;
+  box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, .3), 0px 1px 0px 0px rgba(255, 255, 255, .8);
+}
+
+input[type=checkbox]:checked + .pos5:before {
+  content: "\2713";
+  font-size: 18px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, .2);
+  color: #166285;
+  text-align: center;
+  line-height: 26px;
+   
+  
+}
+
 
 /* CONTACT ADDRESS */
 .posc{
@@ -3561,8 +3596,10 @@ figure img:nth-child(12) { --_d: 240deg; }
   color: #38a7bb;
 }
 
-a {
-  color:  #c2c0c0;
+a.layout-form {
+  color:  #000000;
+  text-decoration: underline;
+	text-decoration-color: rgb(0, 0, 0);
 }
 a:hover {
   color: rgba(56, 167, 187, 0.6);
