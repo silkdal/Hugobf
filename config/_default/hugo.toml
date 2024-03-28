@@ -486,5 +486,12 @@ defaultContentLanguageInSubdir = true
 
 
 
-   
+  [markup]
+  [markup.goldmark]
+    duplicateResourceFiles = false
+    
+    [markup.goldmark.renderer]
+      
+      unsafe = true
+      
 
