@@ -17,3 +17,5 @@ Aquí hay algunas áreas en las que podemos ayudar. Pero la lista no es exhausti
 * Herencias y Testamentos
 * Persona y Familia
 * Conflictos entre Arrendadores i Arrendatarios
+* Derecho Patromonial
+* Práctica Forense

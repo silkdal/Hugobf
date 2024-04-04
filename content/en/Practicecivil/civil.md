@@ -19,3 +19,5 @@ Here are some areas in which we can help. But the list is not exhaustive and alm
 * Property disputes
 * Estates and Wills
 * Landlord and Tenant Disputes
+* Patrimonial Law
+* Forensic Practice

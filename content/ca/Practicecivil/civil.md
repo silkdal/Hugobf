@@ -17,3 +17,5 @@ Aquí hi ha algunes àrees en les quals podem ajudar. Però la llista no és exh
 * Herències i Testaments
 * Persona i Família
 * Conflictes entre Arrendadors i Arrendataris
+* Dret Patrimonial
+* Pràctica Forense

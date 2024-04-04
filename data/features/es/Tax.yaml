@@ -1,5 +1,5 @@
 weight: 3
 name: "Área Tributaria"
 icon: "fas fa-percent"
-url: ""
+url: "../../../es/practicetax/tax/"
 description: "Nuestra firma está especializada en asesoramiento fiscal tanto para personas como para empresas, ya sea la obligación derivada de la actividad normal o por actos legales."

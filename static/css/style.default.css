@@ -2904,10 +2904,10 @@ a.list-group-item.active > .badge,
 
   .text-land {
     position: relative;
-    margin-top: -800px;
-    margin-left: 520px;
+    margin-top: -720px;
+    margin-left: 490px;
     z-index: 1;
-    padding: 0.5rem;
+    padding: 0.9rem;
     }
   .home-carousel h1 {
       font-size: 45px;
@@ -2920,7 +2920,7 @@ a.list-group-item.active > .badge,
     top: -100px;
   }
   #bkg {
-    height: 10vh;
+    height: 7.5vh;
   }
 }
 
@@ -2944,7 +2944,7 @@ a.list-group-item.active > .badge,
     top: -85px;
   }
   #bkg {
-    height: 10vh;
+    height: 9.5vh;
   }
 }
 
@@ -2997,7 +2997,7 @@ a.list-group-item.active > .badge,
   color: #38a7bb;
 }
 
-a {
+a.layout-form {
   color:  #c2c0c0;
 }
 a:hover {

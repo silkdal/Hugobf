@@ -66,7 +66,29 @@
         </div>
         <!-- /#content -->
 
+        <!-- English foot. -->
+
+        {{ if eq $.Site.Language.LanguageName "English" }}
+
         {{ partial "footer.html" . }}
+
+        {{ end }}
+
+        <!-- Cat. foot. -->
+
+        {{ if eq $.Site.Language.LanguageName "Català" }}
+
+        {{ partial "footercat.html" . }}
+
+        {{ end }}
+
+        <!-- Cast. foot. -->
+
+        {{ if eq $.Site.Language.LanguageName "Castellano" }}
+
+        {{ partial "footercast.html" . }}
+
+        {{ end }}
 
     </div>
     <!-- /#all -->
