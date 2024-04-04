@@ -2900,7 +2900,7 @@ a.list-group-item.active > .badge,
   }
 }
 
-@media only screen and (min-width: 720px) {
+@media only screen and (width: 1024px) {
 
   .text-land {
     position: relative;
@@ -2920,7 +2920,7 @@ a.list-group-item.active > .badge,
     top: -100px;
   }
   #bkg {
-    height: 7.5vh;
+    height: 17.5vh;
   }
 }
 

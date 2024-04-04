@@ -3649,7 +3649,7 @@ a:hover {
   
 }
 
-@media only screen and (min-width: 720px) {
+@media only screen and (width: 1024px) {
   #bkg {
     height: 7.5vh;
   }
