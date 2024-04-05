@@ -2907,11 +2907,11 @@ a.list-group-item.active > .badge,
   }
 }
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 950px) {
 
   .text-land {
     position: relative;
-    margin-top: -720px;
+    margin-top: -600px;
     margin-left: 490px;
     z-index: 1;
     padding: 0.9rem;
@@ -2921,13 +2921,13 @@ a.list-group-item.active > .badge,
     }
   .home-carousel ul,
   .home-carousel p {
-      font-size: 14px;
+      font-size: 12px;
   }
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -100px;
   }
   #bkg {
-    height: 40vh;
+    height: 6vh;
   }
 }
 
