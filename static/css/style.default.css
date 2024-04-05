@@ -1,3 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* I do this for all my projects */
+}
+
+
 /* Themed colors */
 :root {
   --primary-accent: #38a7bb;
@@ -2948,12 +2955,12 @@ a.list-group-item.active > .badge,
   }
 }
 
-@media only screen and (min-width: 1920px) {
+@media only screen and (min-width: 1800px) {
 
   .text-land {
     position: relative;
     margin-top: -1120px;
-    margin-left: 1000px;
+    margin-left: 980px;
     z-index: 1;
     padding: 0.5rem;
     }

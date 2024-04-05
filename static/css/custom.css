@@ -1,3 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* I do this for all my projects */
+}
+
+
+
 /* Themed colors */
 :root {
   --primary-accent: #3db6aa;
@@ -3675,7 +3683,7 @@ a:hover {
   }
 }
 
-@media only screen and (min-width: 1920px) {
+@media only screen and (min-width: 1800px) {
   #bkg {
     height: 7.3vh;
   }
