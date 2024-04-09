@@ -4,7 +4,7 @@ style = "default"
 title = 'Prova'
 theme = 'universal'
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 [languages]
   [languages.en]
     contentDir = "content/en"
@@ -38,7 +38,7 @@ defaultContentLanguageInSubdir = true
      about_us = "<p>A law firm that provides legal advice to remarkable people besides focusing on a full monitorship of compliance duties of small size companies.</p>"
     
     # Contact
-     contact_url = "/contact"
+     contact_url = "../../../en/contact"
         address = """<p><strong>Londres, 12</strong>
         <br>1er 1a
         <br>Barcelona 08029
@@ -68,7 +68,7 @@ defaultContentLanguageInSubdir = true
      about_us = "<p>Somos una firma legal que aconseja a personas y profesionales, además de ofrecer un asesoramiento integral a pequeñas y medianas empresas.</p>"
     
     # Contact
-     contact_url = "../../es/contact"
+     contact_url = "/contact"
         address = """<p><strong>Londres, 12</strong>
         <br>1er 1a
         <br>Barcelona 08029
@@ -135,14 +135,14 @@ defaultContentLanguageInSubdir = true
 [[languages.en.menu.main]]
     name       = "Home"
     identifier = "menu.home"
-    url        = "/"
+    url        = "../../../en/"
     weight     = 1
 
 
 [[languages.en.menu.main]]
     name       = "About"
     identifier = "menu.about"
-    url        = "../../temp/about/"
+    url        = "../../../en/temp/about/"
     weight     = 2
 
 
@@ -154,7 +154,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.en.menu.main]]
     name       = "Jose Luis Bou"
-    url        = "../../partners/bou/"
+    url        = "../../../en/partners/bou/"
     weight     = 1
     parent     = "menu.partner"
     post       = 1
@@ -162,7 +162,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.en.menu.main]]
     name       = "Jose Antonio Feo"
-    url        = "../../partners/feo/"
+    url        = "../../../en/partners/feo/"
     weight     = 2
     parent     = "menu.partner"
     post       = 2
@@ -177,44 +177,44 @@ defaultContentLanguageInSubdir = true
 
 [[languages.en.menu.main]]
     name       = "Civil Law"
-    url        = "../../practicecivil/civil/"
+    url        = "../../../en/practicecivil/civil/"
     weight     = 1
     parent     = "menu.practice"
 
 [[languages.en.menu.main]]
     name       = "Corporate Law"
-    url        = "../../practicescorp/corp/"
+    url        = "../../../en/practicescorp/corp/"
     weight     = 2
     parent     = "menu.practice"
 
 [[languages.en.menu.main]]
     name       = "Tax Law"
-    url        = "../../practicetax/tax/"
+    url        = "../../../en/practicetax/tax/"
     weight     = 2
     parent     = "menu.practice"
 
 [[languages.en.menu.main]]
     name       = "Employment Law"
-    url        = "../../practicework/work/"
+    url        = "../../../en/practicework/work/"
     weight     = 3
     parent     = "menu.practice"
     post       = 2
 
 [[languages.en.menu.main]]
     name       = "Companies"
-    url        = "../../practicecom/comp/"
+    url        = "../../../en/practicecom/comp/"
     weight     = 4
     parent     = "menu.practice"
 
 [[languages.en.menu.main]]
     name       = "Accountancy"
-    url        = "../../practiceacc/account"
+    url        = "../../../en/practiceacc/account"
     weight     = 3
     parent     = "menu.practice"
   
 [[languages.en.menu.main]]
     name       = "Business Law"
-    url        = "../../practicebus/bus"
+    url        = "../../../en/practicebus/bus"
     weight     = 2
     parent     = "menu.practice"
 
@@ -222,7 +222,7 @@ defaultContentLanguageInSubdir = true
 [[languages.en.menu.main]]
     identifier = "contact"
     name       = "Contact"
-    url        = "/contact/"
+    url        = "../../../en/contact/"
     weight     = 7
 
 
@@ -230,14 +230,14 @@ defaultContentLanguageInSubdir = true
 [[languages.es.menu.main]]
     name       = "Inicio"
     identifier = "menu.home"
-    url        = "../../../es/"
+    url        = "/"
     weight     = 1
 
 
 [[languages.es.menu.main]]
     name       = "Nuestra firma"
     identifier = "menu.about"
-    url        = "../../../es/temp/about/"
+    url        = "../../temp/about/"
     weight     = 2
 
 
@@ -249,7 +249,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.es.menu.main]]
     name       = "Jose Luis Bou"
-    url        = "../../../es/partners/bou/"
+    url        = "../../partners/bou/"
     weight     = 1
     parent     = "menu.partner"
     post       = 1
@@ -257,7 +257,7 @@ defaultContentLanguageInSubdir = true
 
 [[languages.es.menu.main]]
     name       = "Jose Antonio Feo"
-    url        = "../../../es/partners/feo/"
+    url        = "../../partners/feo/"
     weight     = 2
     parent     = "menu.partner"
     post       = 2
@@ -272,44 +272,44 @@ defaultContentLanguageInSubdir = true
 
 [[languages.es.menu.main]]
     name       = "Civil"
-    url        = "../../../es/practicecivil/civil/"
+    url        = "../../practicecivil/civil/"
     weight     = 1
     parent     = "menu.practice"
 
 [[languages.es.menu.main]]
     name       = "Corporativa"
-    url        = "../../../es/practicescorp/corp/"
+    url        = "../../practicescorp/corp/"
     weight     = 2
     parent     = "menu.practice"
 
 [[languages.es.menu.main]]
     name       = "Tributaria"
-    url        = "../../../es/practicetax/tax/"
+    url        = "../../practicetax/tax/"
     weight     = 2
     parent     = "menu.practice"
 
 [[languages.es.menu.main]]
     name       = "Laboral"
-    url        = "../../../es/practicework/work/"
+    url        = "../../practicework/work/"
     weight     = 3
     parent     = "menu.practice"
     post       = 2
 
 [[languages.es.menu.main]]
     name       = "Empresas"
-    url        = "../../../es/practicecom/comp/"
+    url        = "../../practicecom/comp/"
     weight     = 4
     parent     = "menu.practice"
 
 [[languages.es.menu.main]]
     name       = "Ârea Contable"
-    url        = "../../../es/practiceacc/account"
+    url        = "../../practiceacc/account"
     weight     = 3
     parent     = "menu.practice"
   
 [[languages.es.menu.main]]
     name       = "Mercantil"
-    url        = "../../../es/practicebus/bus"
+    url        = "../../practicebus/bus"
     weight     = 2
     parent     = "menu.practice"
 
@@ -317,7 +317,7 @@ defaultContentLanguageInSubdir = true
 [[languages.es.menu.main]]
     identifier = "Contact"
     name       = "Contacto"
-    url        = "../../../es/contact/"
+    url        = "/contact/"
     weight     = 7
 
 
