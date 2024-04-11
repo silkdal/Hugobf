@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BF Advocats</title>
+    <link>https://bfirm.netlify.app/en/practicecom/</link>
+    <description>Recent content on BF Advocats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://bfirm.netlify.app/en/practicecom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Companies</title>
+      <link>https://bfirm.netlify.app/en/practicecom/comp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bfirm.netlify.app/en/practicecom/comp/</guid>
+      <description>Our firm offers a fully integrated monitorship for the major compliances duties for the businesses or companies, including taxes, working contracts and accountancy. This unitary approach allows an exhaustive dedication, besides a deeper knowledge on the inner workings of our clients, enhancing thus, the quality of our service.
+Our experience in Companies Our experience with several businesses and companies shows us that with this approach our values and management principles of proximity and confidence are totally fulfilled.</description>
+    </item>
+  </channel>
+</rss>

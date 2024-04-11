@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BF Advocats</title>
+    <link>https://bfirm.netlify.app/practicecivil/</link>
+    <description>Recent content on BF Advocats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <atom:link href="https://bfirm.netlify.app/practicecivil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Área Civil</title>
+      <link>https://bfirm.netlify.app/practicecivil/civil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bfirm.netlify.app/practicecivil/civil/</guid>
+      <description>Las situaciones de conflicto que pueden surgir habitualmente en la actividad individual son casi interminables. Ya sea la disputa en un testamento, una compra, o algún daño sufrido, es esencial contar con un asesoramiento fiable para prevenir o decidir la actuación más adecuada. Nuestra firma estará atenta a los detalles de su caso y ofrecerá una orientación completa hasta la resolución del conflicto.
+En algunos casos, aunque pueda durar meses o años, el litigio es inevitable.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BF Advocats</title>
+    <link>https://bfirm.netlify.app/en/partners/</link>
+    <description>Recent content on BF Advocats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://bfirm.netlify.app/en/partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jose Antonio Feo</title>
+      <link>https://bfirm.netlify.app/en/partners/feo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bfirm.netlify.app/en/partners/feo/</guid>
+      <description>Jose Antonio is a founding partner of the firm and a passionate practitioner of law. His expertise spans a wide variety of legal areas, in addition to being a specialist in accounting and taxation.
+Education and Training Mercantile Professor. Social Graduate. Law Degree. Lawyer at the Barcelona Bar Association (ICAB). ROAC Certified Auditor, non-practicing. Course in Matrimonial and Family Law – ICAB. Course on Filiation Matters – ICAB. Course on Evidence in Civil Proceedings – ICAB.</description>
+    </item>
+    <item>
+      <title>Jose Luis Bou</title>
+      <link>https://bfirm.netlify.app/en/partners/bou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bfirm.netlify.app/en/partners/bou/</guid>
+      <description>José Luis Bou Castellà, enthusiastic about the profession of Law, which he considers a suitable expression to appreciate human nature, is also a great enthusiast of classical music, and other arts related to classical and contemporary culture, such as painting, sculpture, and architecture. With knowledge of the Catalan, Spanish, English, French, and some German, he has provided legal advice to multinational companies in the chemical and automotive sectors.
+Education and Training Law Degree.</description>
+    </item>
+  </channel>
+</rss>

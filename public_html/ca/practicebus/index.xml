@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BF Advocats</title>
+    <link>https://bfirm.netlify.app/ca/practicebus/</link>
+    <description>Recent content on BF Advocats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <atom:link href="https://bfirm.netlify.app/ca/practicebus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Àrea Mercantil</title>
+      <link>https://bfirm.netlify.app/ca/practicebus/bus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bfirm.netlify.app/ca/practicebus/bus/</guid>
+      <description>L&amp;rsquo;activitat empresarial diària no és una pràctica senzilla. Des de l&amp;rsquo;assessorament fins a la litigació, la nostra firma ofereix un servei fiable i experimentat per ajudar a assolir els objectius d&amp;rsquo;empreses i negocis, incloent assessorament a la direcció de fàbrica en qüestions relacionades amb l&amp;rsquo;activitat industrial, el patrimoni i el manteniment de les propietats, centres de treball i fabrils.
+Realitzem totes les gestions davant de qualsevol organisme pertanyent a l&amp;rsquo;Administració de l&amp;rsquo;Estat, amb atenció a qüestions de qualitat i seguretat dels productes, i inscripcions als Registres industrials i de la Propietat Industrial.</description>
+    </item>
+  </channel>
+</rss>
