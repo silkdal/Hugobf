@@ -1,0 +1,5 @@
+[[redirects]]
+    from = "https://bfirm.netlify.app/ca/"
+    to = "https://www.bufete-boufeo.com/ca/"
+    status = 301
+    force = true
