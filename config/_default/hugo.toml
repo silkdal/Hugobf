@@ -1,7 +1,7 @@
-baseURL = 'https://bfirm.netlify.app/'
+baseURL = 'https://www.bufete-boufeo.com/'
 languageCode = 'en-us'
 style = "default"
-title = 'Prova'
+title = 'BF Advocats'
 theme = 'universal'
 
 DefaultContentLanguage = "es"
