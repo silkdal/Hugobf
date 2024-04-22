@@ -1,5 +1,5 @@
 weight: 5
 name: "Área Laboral"
 icon: "fas fa-pen-nib"
-url: "../../../es/practicework/work/"
+url: "../../../practicework/work/"
 description: "Ofrecemos orientación completa y asesoramiento tanto para empresas como para trabajadores en situaciones derivadas de contratos laborales."
