@@ -1,5 +1,6 @@
 +++
 title = 'La Firma'
+description = 'Bufete-boufeo es una firma legal de asesoramiento a empresas y profesionales'
 draft = false
 +++
 
