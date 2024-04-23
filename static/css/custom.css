@@ -3659,11 +3659,11 @@ a:hover {
 
 @media only screen and (min-width: 950px) {
   #bkg {
-    height: 6vh;
+    height: 8vh;
   }
   .title { 
     position: relative;
-    top: 250px;
+    top: 300px;
     color: #ededed;
     font-size: 30px;
   
