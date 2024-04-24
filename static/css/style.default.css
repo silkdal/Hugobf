@@ -2887,23 +2887,27 @@ a.list-group-item.active > .badge,
 
   .text-land {
     position: relative;
-    margin-top: -300px;
-    margin-left: 250px;
+    margin-top: -200px;
+    margin-left: 200px;
     z-index: 1;
-    padding: 0.5rem;
+    padding: 0.9rem;
     }
   .home-carousel h1 {
-      font-size: 15px;
+      font-size: 35px;
     }
   .home-carousel ul,
   .home-carousel p {
-      font-size: 3px;
+      font-size: 20px;
   }
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -140px;
   }
   #bkg {
-    height: 4vh;
+    height: 7.5vh;
+  }
+  figure {
+    position: relative;
+    margin-left: 0px;
   }
 }
 
