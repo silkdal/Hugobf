@@ -2889,10 +2889,10 @@ a.list-group-item.active > .badge,
 
   .text-land {
     position: relative;
-    margin-top: -475px;
-    margin-left: 100px;
+    margin-top: -575px;
+    margin-left: 90px;
     z-index: 1;
-    padding: 1.5rem;
+    padding: 2rem;
     }
   .home-carousel h1 {
       font-size: 30px;
@@ -2902,7 +2902,7 @@ a.list-group-item.active > .badge,
       font-size: 15px;
   }
   .home-carousel .owl-theme .owl-controls .owl-page span {
-    top: -240px;
+    top: -200px;
   }
   #bkg {
     height: 8.2vh;
