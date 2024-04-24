@@ -2027,23 +2027,23 @@ fieldset[disabled] .btn-template-primary.active {
 /* FOOTER */
 
 .vl {
-  position: absolute;
-  left: 310px;
-  bottom: 60px;
+  position: relative;
+  margin-left: 310px;
+  margin-top: -185px;
   border-right: 2px solid #2c8494;
   height: 100px;
 }
 .vla {
-  position: absolute;
+  position: relative;
   right: 310px;
   bottom: 40px;
   border-left: 2px solid #2c8494;
   height: 100px;
 }
 .vla1 {
-  position: absolute;
-  right: 310px;
-  bottom: 17px;
+  position: relative;
+  margin-left: -150px;
+  margin-top: -135px;
   border-left: 2px solid #2c8494;
   height: 100px;
 }
@@ -3672,7 +3672,7 @@ a:hover {
 
 @media only screen and (min-width: 850px) {
   #bkg {
-    height: 8vh;
+    height: 9.5vh;
   }
   .title { 
     position: relative;
