@@ -2883,12 +2883,12 @@ a.list-group-item.active > .badge,
   z-index: -1;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 325px) {
 
   .text-land {
     position: relative;
-    margin-top: -1100px;
-    margin-left: 350px;
+    margin-top: -300px;
+    margin-left: 250px;
     z-index: 1;
     padding: 0.5rem;
     }
@@ -2897,17 +2897,17 @@ a.list-group-item.active > .badge,
     }
   .home-carousel ul,
   .home-carousel p {
-      font-size: 6px;
+      font-size: 3px;
   }
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -140px;
   }
   #bkg {
-    height: 10vh;
+    height: 4vh;
   }
 }
 
-@media only screen and (min-width: 950px) {
+@media only screen and (min-width: 850px) {
 
   .text-land {
     position: relative;
