@@ -2889,17 +2889,17 @@ a.list-group-item.active > .badge,
 
   .text-land {
     position: relative;
-    margin-top: -350px;
-    margin-left: 150px;
+    margin-top: -475px;
+    margin-left: 100px;
     z-index: 1;
-    padding: -0.5rem;
+    padding: 1.5rem;
     }
   .home-carousel h1 {
       font-size: 30px;
     }
   .home-carousel ul,
   .home-carousel p {
-      font-size: 10px;
+      font-size: 15px;
   }
   .home-carousel .owl-theme .owl-controls .owl-page span {
     top: -240px;
@@ -2913,13 +2913,13 @@ a.list-group-item.active > .badge,
 
   .text-land {
     position: relative;
-    margin-top: -700px;
-    margin-left: 490px;
+    margin-top: -650px;
+    margin-left: 430px;
     z-index: 1;
     padding: 0.9rem;
     }
   .home-carousel h1 {
-      font-size: 45px;
+      font-size: 40px;
     }
   .home-carousel ul,
   .home-carousel p {
