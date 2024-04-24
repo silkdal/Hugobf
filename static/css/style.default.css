@@ -2883,34 +2883,53 @@ a.list-group-item.active > .badge,
   z-index: -1;
 }
 
-@media only screen and (min-width: 325px) {
+@media only screen and (max-width: 328px) {
 
-  .text-land {
-    position: relative;
-    margin-top: -100px;
-    margin-left: 150px;
-    z-index: 1;
-    padding: 1.5rem;
-    }
-  .home-carousel h1 {
-      font-size: 35px;
-    }
-  .home-carousel ul,
-  .home-carousel p {
-      font-size: 10px;
-  }
-  .home-carousel .owl-theme .owl-controls .owl-page span {
-    top: -140px;
-  }
-  #bkg {
-    height: 8vh;
-  }
   .vl {
   position: relative;
   left: 310px;
   bottom: 60px;
   border-right: 0;
   height: 0px;
+  }
+  .vla {
+  position: relative;
+  left: 310px;
+  bottom: 60px;
+  border-right: 0;
+  height: 0px;
+  }
+  .vla1 {
+    position: relative;
+    left: 310px;
+    bottom: 60px;
+    border-right: 0px;
+    height: 0px;
+  }
+
+}
+
+@media only screen and (min-width: 325px) {
+
+  .text-land {
+    position: relative;
+    margin-top: -350px;
+    margin-left: 150px;
+    z-index: 1;
+    padding: -0.5rem;
+    }
+  .home-carousel h1 {
+      font-size: 30px;
+    }
+  .home-carousel ul,
+  .home-carousel p {
+      font-size: 10px;
+  }
+  .home-carousel .owl-theme .owl-controls .owl-page span {
+    top: -240px;
+  }
+  #bkg {
+    height: 8.2vh;
   }
 }
 
